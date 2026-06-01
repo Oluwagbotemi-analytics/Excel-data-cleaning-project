@@ -1,105 +1,109 @@
-# GoSales Business Analysis
-## Project Overview
-This project presents an end-to-end business analysis of the GoSales dataset using **SQL, Excel, and Power BI** to uncover revenue trends, retailer performance patterns, customer order behavior, and product performance.
-Interactive dashboards were developed to transform raw transactional data into actionable business insights for strategic decision-making.
+# GO Sales Business Analytics
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=flat&logo=microsoft&logoColor=white)
+
+## Overview
+
+An end-to-end business analytics project on the GO Sales dataset. The project covers data cleaning, transformation, KPI development, and interactive dashboard creation to surface actionable insights on revenue performance, retailer behavior, and sales channel trends.
+
 ---
-## Business Objective
-The goal of this project was to analyze sales performance across products, retailers, and order channels to identify trends, evaluate business performance, and provide data-driven recommendations for growth optimization.
+
+## Problem Statement
+
+The GO Sales business needed a clear view of its sales performance across products, retailers, and order channels. Raw transactional data across multiple tables made it difficult to identify top performers, seasonal patterns, and underperforming areas without structured analysis.
+
 ---
-## Tools
-* **SQL** – Sales performance analysis and KPI extraction
-* **Excel** – Pivot analysis, trend evaluation, and time series forecasting
-* **Power BI** – Interactive dashboard development and visualization
-* **Power Query** – Data cleaning and transformation
+
+## Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| Power Query | Data cleaning and transformation |
+| SQL | Sales queries and KPI calculations |
+| Microsoft Excel | Pivot analysis, trend evaluation, forecasting |
+| Power BI | Interactive dashboard and visualizations |
+
 ---
-## Data Preparation
-Data preprocessing was carried out using Power Query to ensure analysis accuracy.
-Key cleaning steps included:
-* Removing blank cells
-* Eliminating duplicates
-* Correcting column formats
-* Fixing inconsistencies and spelling errors
-* Creating relationships between sales, products, retailers, and order method tables
+
+## Dataset
+
+The GO Sales dataset contains transactional records covering:
+- Product details and categories
+- Retailer information
+- Order methods (E-mail, Mail, Sales Visit, Telephone, Web)
+- Sales dates spanning a full calendar year
+
 ---
-## Key Performance Indicators (KPIs)
-The analysis focused on the following business metrics:
-* **Total Revenue**
-* **Average Order Value**
-* **Order Count**
-* **Sales Growth Rate (%)**
-* **Sales by Order Method**
-* **Top Performing Products**
-* **Average Order per Retailer**
+
+## Data Cleaning Process
+
+Carried out in **Power Query**:
+- Removed blank cells and duplicate rows
+- Corrected column data types and formats
+- Fixed spelling errors in categorical fields
+- Built relationships between tables: Sales, Products, Retailers, and Order Methods
+
 ---
-## Dashboard Features
-The Power BI dashboard includes:
-* **Line Charts** – Monthly sales trends
-* **Area Chart** – Cumulative sales over time
-* **Treemap** – Product revenue contribution
-* **Bar Charts** – Retailer performance comparison
-* **Donut Chart** – Sales distribution by order method
-* **Interactive Slicers** for:
-  * Retailer filtering
-  * Product category filtering
-  * Order method filtering
 
-## Key Insights
+## KPIs Tracked
 
-### Revenue Trends
+- Total Revenue
+- Average Order Value
+- Order Count by Retailer
+- Sales Growth Rate (%)
+- Sales Distribution by Order Method
 
-Sales performance varied across months, revealing noticeable fluctuations in business activity and indicating periods of stronger customer demand.
-
-### Order Method Performance
-
-Sales distribution across order channels was uneven, with certain methods outperforming others, highlighting changing customer purchasing preferences.
-
-### Product Performance
-
-A small group of products generated significantly higher revenue, identifying strong-performing products with high customer demand.
-
-### Retailer Performance
-
-Retailer contribution varied significantly, with top-performing retailers driving a large share of total business revenue.
-
-### Customer Behavior
-
-Sales trends suggest evolving customer preferences toward more efficient and accessible purchasing channels.
 ---
-## Business Recommendations
-Based on the analysis, the following actions are recommended:
-* Prioritize high-performing retailers and product categories
-* Strengthen underperforming sales channels
-* Leverage high-growth order methods
-* Implement targeted strategies for low-performing products
-* Encourage upselling to increase average order value
-* Use trend patterns to improve demand forecasting
+
+## Key Findings
+
+- **Seasonal demand:** Sales performance varied significantly across months, with one month contributing disproportionately higher revenue
+- **Dominant sales channel:** One order method drove the majority of transactions, indicating a clear customer preference
+- **Top product:** Star Lite generated the highest share of total revenue by a significant margin
+- **Secondary products:** Canyon Mule Weekender Backpack, Canyon Mule Journey Backpack, and Star Gazer 2 showed balanced performance among themselves
+- **Retailer gap:** High-performing retailers drove the bulk of revenue, while a segment of underperforming retailers represents an untapped growth opportunity
+
 ---
-## Dashboard Preview
-```text
-"C:\Users\ACER\Desktop\Work files\Pictures\Screenshots\Sales_Trend.png"
-"C:\Users\ACER\Desktop\Work files\Pictures\Screenshots\Retailer  Performance.png"
-```
+
+## Recommendations
+
+- Prioritize high-performing retailers and product categories to protect and grow revenue
+- Expand investment in the dominant sales channel while developing weaker channels
+- Deploy upselling strategies and performance monitoring for underperforming retailers
+- Use seasonal patterns to plan inventory levels and promotional campaigns in advance
+
 ---
+
+## Dashboard Highlights
+
+Built in **Power BI** with interactive slicers for retailer, product category, and order method:
+
+- Monthly sales trend — dual-axis line and bar chart
+- Sales by order method — donut chart
+- Top 5 products by revenue — treemap
+- Retailer performance comparison — bar chart
+- Cumulative sales over time — area chart
+
+> *Dashboard screenshot coming soon*
+
+---
+
 ## Repository Structure
 
-```text
-GoSales_Business_Analysis/
-├── data/
-├── sql/
-├── powerbi/
-├── visuals/
-├── reports/
+```
+├── raw_data.csv                  # Original uncleaned dataset
+├── cleaned_data_analyzed.csv     # Cleaned and analysis-ready dataset
+├── GO_Sales_Report.pdf           # Full business analytics report
 └── README.md
 ```
+
 ---
-## Project Outcome
-This project demonstrates practical business analytics skills by combining data cleaning, SQL querying, trend analysis, KPI development, and dashboard storytelling to support data-driven business decisions.
----
- **Key Skills Demonstrated**
-* Data Cleaning & Transformation
-* SQL Querying
-* Exploratory Data Analysis
-* Business Intelligence Reporting
-* KPI Development
-* Dashboard Design
-* Business Recommendation Formulation
+
+## Author
+
+**Oluwagbotemi Olanrewaju**  
+Data Analyst  
+https://github.com/Oluwagbotemi-analytics
