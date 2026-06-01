@@ -1,0 +1,1001 @@
+"Order method code","Retailer code","Product number",Date,Quantity,"Unit price","Unit sale price","Product line","Product type",Product,"Product brand","Product color","Unit cost","Unit price","Retailer name",Type,Country,"Order method type"
+4,1201,115110,2015-01-12,755,10.71,10.28,"Golf Equipment","Golf Accessories","Course Pro Gloves","Course Pro",Red,2.54,10.71,"The Marketplace","Department Store","United States",E-mail
+4,1201,115110,2015-02-09,508,10.71,10.28,"Golf Equipment","Golf Accessories","Course Pro Gloves","Course Pro",Red,2.54,10.71,"The Marketplace","Department Store","United States",E-mail
+5,1201,115110,2015-08-12,768,10.71,10.28,"Golf Equipment","Golf Accessories","Course Pro Gloves","Course Pro",Red,2.54,10.71,"The Marketplace","Department Store","United States",Web
+4,1201,114110,2015-01-12,88,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Marketplace","Department Store","United States",E-mail
+4,1201,114110,2015-02-09,88,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Marketplace","Department Store","United States",E-mail
+5,1201,114110,2015-03-08,97,219.3,189.7,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Marketplace","Department Store","United States",Web
+5,1201,114110,2015-03-08,39,219.3,175.44,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Marketplace","Department Store","United States",Web
+5,1201,114110,2015-04-13,167,219.3,189.7,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Marketplace","Department Store","United States",Web
+5,1201,114110,2015-06-09,86,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Marketplace","Department Store","United States",Web
+5,1201,114110,2015-07-13,88,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Marketplace","Department Store","United States",Web
+5,1201,114110,2015-09-09,86,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Marketplace","Department Store","United States",Web
+5,1201,114110,2015-10-22,76,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Marketplace","Department Store","United States",Web
+5,1201,114110,2015-11-12,78,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Marketplace","Department Store","United States",Web
+4,1201,113110,2015-02-09,874,12.81,12.3,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"The Marketplace","Department Store","United States",E-mail
+5,1201,113110,2015-03-08,38,12.81,0,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"The Marketplace","Department Store","United States",Web
+5,1201,113110,2015-03-08,39,12.81,0,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"The Marketplace","Department Store","United States",Web
+5,1201,113110,2015-04-13,124,12.81,0,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"The Marketplace","Department Store","United States",Web
+5,1201,113110,2015-05-11,811,12.81,12.3,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"The Marketplace","Department Store","United States",Web
+5,1201,113110,2015-08-12,833,12.81,12.3,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"The Marketplace","Department Store","United States",Web
+5,1201,113110,2015-11-12,874,12.81,12.3,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"The Marketplace","Department Store","United States",Web
+4,1201,112110,2015-01-12,799,10.64,10.21,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Marketplace","Department Store","United States",E-mail
+4,1201,112110,2015-02-09,695,10.64,10.21,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Marketplace","Department Store","United States",E-mail
+5,1201,112110,2015-03-08,38,10.64,0,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Marketplace","Department Store","United States",Web
+5,1201,112110,2015-03-08,39,10.64,0,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Marketplace","Department Store","United States",Web
+4,1201,112110,2015-03-08,707,10.64,10.21,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Marketplace","Department Store","United States",E-mail
+5,1201,112110,2015-04-13,124,10.64,0,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Marketplace","Department Store","United States",Web
+5,1201,112110,2015-07-19,837,10.64,10.21,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Marketplace","Department Store","United States",Web
+5,1201,112110,2015-08-12,680,10.64,10.21,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Marketplace","Department Store","United States",Web
+5,1201,112110,2015-09-09,722,10.64,10.21,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Marketplace","Department Store","United States",Web
+5,1201,112110,2015-11-12,667,10.64,10.21,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Marketplace","Department Store","United States",Web
+4,1201,111110,2015-02-09,233,180.63,167.99,"Golf Equipment",Putters,"Blue Steel Max Putter","Blue Steel",Bronze,89.41,180.63,"The Marketplace","Department Store","United States",E-mail
+5,1201,111110,2015-04-13,186,180.63,167.99,"Golf Equipment",Putters,"Blue Steel Max Putter","Blue Steel",Bronze,89.41,180.63,"The Marketplace","Department Store","United States",Web
+5,1201,111110,2015-06-08,191,180.63,167.99,"Golf Equipment",Putters,"Blue Steel Max Putter","Blue Steel",Bronze,89.41,180.63,"The Marketplace","Department Store","United States",Web
+5,1201,111110,2015-09-09,192,180.63,167.99,"Golf Equipment",Putters,"Blue Steel Max Putter","Blue Steel",Bronze,89.41,180.63,"The Marketplace","Department Store","United States",Web
+5,1201,111110,2015-10-22,191,180.63,167.99,"Golf Equipment",Putters,"Blue Steel Max Putter","Blue Steel",Bronze,89.41,180.63,"The Marketplace","Department Store","United States",Web
+4,1201,110110,2015-01-12,206,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"The Marketplace","Department Store","United States",E-mail
+4,1201,110110,2015-02-09,195,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"The Marketplace","Department Store","United States",E-mail
+5,1201,110110,2015-04-13,177,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"The Marketplace","Department Store","United States",Web
+5,1201,110110,2015-05-11,183,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"The Marketplace","Department Store","United States",Web
+5,1201,110110,2015-09-09,195,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"The Marketplace","Department Store","United States",Web
+5,1201,110110,2015-10-14,322,98.75,59.25,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"The Marketplace","Department Store","United States",Web
+5,1201,110110,2015-11-11,437,98.75,59.25,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"The Marketplace","Department Store","United States",Web
+4,1201,109110,2015-01-12,648,76.86,71.48,"Golf Equipment",Putters,"Course Pro Putter","Course Pro",Brass,31.12,74.96,"The Marketplace","Department Store","United States",E-mail
+4,1201,109110,2015-02-09,571,76.86,71.48,"Golf Equipment",Putters,"Course Pro Putter","Course Pro",Brass,31.12,74.96,"The Marketplace","Department Store","United States",E-mail
+5,1201,109110,2015-03-08,521,76.86,71.48,"Golf Equipment",Putters,"Course Pro Putter","Course Pro",Brass,31.12,74.96,"The Marketplace","Department Store","United States",Web
+5,1201,109110,2015-04-13,563,76.86,71.48,"Golf Equipment",Putters,"Course Pro Putter","Course Pro",Brass,31.12,74.96,"The Marketplace","Department Store","United States",Web
+5,1201,109110,2015-06-08,638,76.86,71.48,"Golf Equipment",Putters,"Course Pro Putter","Course Pro",Brass,31.12,74.96,"The Marketplace","Department Store","United States",Web
+5,1201,109110,2015-08-12,641,76.86,71.48,"Golf Equipment",Putters,"Course Pro Putter","Course Pro",Brass,31.12,74.96,"The Marketplace","Department Store","United States",Web
+5,1201,109110,2015-09-09,608,76.86,71.48,"Golf Equipment",Putters,"Course Pro Putter","Course Pro",Brass,31.12,74.96,"The Marketplace","Department Store","United States",Web
+4,1201,108110,2015-01-12,34,910.82,847.06,"Golf Equipment",Woods,"Lady Hailstorm Steel Woods Set",Hailstorm,Mahogany,449.13,910.82,"The Marketplace","Department Store","United States",E-mail
+4,1201,108110,2015-02-09,53,910.82,847.06,"Golf Equipment",Woods,"Lady Hailstorm Steel Woods Set",Hailstorm,Mahogany,449.13,910.82,"The Marketplace","Department Store","United States",E-mail
+4,1201,108110,2015-03-08,48,910.82,847.06,"Golf Equipment",Woods,"Lady Hailstorm Steel Woods Set",Hailstorm,Mahogany,449.13,910.82,"The Marketplace","Department Store","United States",E-mail
+5,1201,108110,2015-06-09,42,910.82,847.06,"Golf Equipment",Woods,"Lady Hailstorm Steel Woods Set",Hailstorm,Mahogany,449.13,910.82,"The Marketplace","Department Store","United States",Web
+5,1201,108110,2015-07-13,51,910.82,847.06,"Golf Equipment",Woods,"Lady Hailstorm Steel Woods Set",Hailstorm,Mahogany,449.13,910.82,"The Marketplace","Department Store","United States",Web
+5,1201,108110,2015-10-22,37,910.82,847.06,"Golf Equipment",Woods,"Lady Hailstorm Steel Woods Set",Hailstorm,Mahogany,449.13,910.82,"The Marketplace","Department Store","United States",Web
+5,1201,108110,2015-11-12,42,910.82,847.06,"Golf Equipment",Woods,"Lady Hailstorm Steel Woods Set",Hailstorm,Mahogany,449.13,910.82,"The Marketplace","Department Store","United States",Web
+4,1201,107110,2015-02-09,42,1359.72,1264.54,"Golf Equipment",Woods,"Lady Hailstorm Titanium Woods Set",Hailstorm,Bronze,637.81,1359.72,"The Marketplace","Department Store","United States",E-mail
+4,1201,107110,2015-03-08,37,1359.72,1264.54,"Golf Equipment",Woods,"Lady Hailstorm Titanium Woods Set",Hailstorm,Bronze,637.81,1359.72,"The Marketplace","Department Store","United States",E-mail
+5,1201,107110,2015-04-13,38,1359.72,1264.54,"Golf Equipment",Woods,"Lady Hailstorm Titanium Woods Set",Hailstorm,Bronze,637.81,1359.72,"The Marketplace","Department Store","United States",Web
+5,1201,107110,2015-05-11,40,1359.72,1264.54,"Golf Equipment",Woods,"Lady Hailstorm Titanium Woods Set",Hailstorm,Bronze,637.81,1359.72,"The Marketplace","Department Store","United States",Web
+5,1201,107110,2015-08-11,43,1359.72,1264.54,"Golf Equipment",Woods,"Lady Hailstorm Titanium Woods Set",Hailstorm,Bronze,637.81,1359.72,"The Marketplace","Department Store","United States",Web
+5,1201,107110,2015-10-14,43,1359.72,1264.54,"Golf Equipment",Woods,"Lady Hailstorm Titanium Woods Set",Hailstorm,Bronze,637.81,1359.72,"The Marketplace","Department Store","United States",Web
+4,1201,106110,2015-02-09,44,1161.46,1080.16,"Golf Equipment",Woods,"Hailstorm Steel Woods Set",Hailstorm,Mahogany,384.45,798.56,"The Marketplace","Department Store","United States",E-mail
+5,1201,106110,2015-03-08,46,1161.46,1080.16,"Golf Equipment",Woods,"Hailstorm Steel Woods Set",Hailstorm,Mahogany,384.45,798.56,"The Marketplace","Department Store","United States",Web
+5,1201,106110,2015-06-09,50,1161.46,1080.16,"Golf Equipment",Woods,"Hailstorm Steel Woods Set",Hailstorm,Mahogany,384.45,798.56,"The Marketplace","Department Store","United States",Web
+5,1201,106110,2015-08-12,50,1161.46,1080.16,"Golf Equipment",Woods,"Hailstorm Steel Woods Set",Hailstorm,Mahogany,384.45,798.56,"The Marketplace","Department Store","United States",Web
+5,1201,106110,2015-09-08,44,1161.46,1080.16,"Golf Equipment",Woods,"Hailstorm Steel Woods Set",Hailstorm,Mahogany,384.45,798.56,"The Marketplace","Department Store","United States",Web
+4,1201,105110,2015-03-08,61,1271.08,1182.1,"Golf Equipment",Woods,"Hailstorm Titanium Woods Set",Hailstorm,Bronze,648.72,1271.08,"The Marketplace","Department Store","United States",E-mail
+4,1201,105110,2015-04-13,67,1271.08,1182.1,"Golf Equipment",Woods,"Hailstorm Titanium Woods Set",Hailstorm,Bronze,648.72,1271.08,"The Marketplace","Department Store","United States",E-mail
+5,1201,105110,2015-07-19,86,1271.08,1182.1,"Golf Equipment",Woods,"Hailstorm Titanium Woods Set",Hailstorm,Bronze,648.72,1271.08,"The Marketplace","Department Store","United States",Web
+5,1201,105110,2015-10-22,61,1271.08,1182.1,"Golf Equipment",Woods,"Hailstorm Titanium Woods Set",Hailstorm,Bronze,648.72,1271.08,"The Marketplace","Department Store","United States",Web
+5,1201,105110,2015-11-11,69,1271.08,1182.1,"Golf Equipment",Woods,"Hailstorm Titanium Woods Set",Hailstorm,Bronze,648.72,1271.08,"The Marketplace","Department Store","United States",Web
+4,1201,104110,2015-01-12,67,889.02,826.79,"Golf Equipment",Irons,"Lady Hailstorm Titanium Irons",Hailstorm,Silver,441.97,889.02,"The Marketplace","Department Store","United States",E-mail
+5,1201,104110,2015-05-11,68,889.02,826.79,"Golf Equipment",Irons,"Lady Hailstorm Titanium Irons",Hailstorm,Silver,441.97,889.02,"The Marketplace","Department Store","United States",Web
+5,1201,104110,2015-06-08,65,889.02,826.79,"Golf Equipment",Irons,"Lady Hailstorm Titanium Irons",Hailstorm,Silver,441.97,889.02,"The Marketplace","Department Store","United States",Web
+5,1201,104110,2015-07-19,82,889.02,826.79,"Golf Equipment",Irons,"Lady Hailstorm Titanium Irons",Hailstorm,Silver,441.97,889.02,"The Marketplace","Department Store","United States",Web
+5,1201,104110,2015-09-08,74,889.02,826.79,"Golf Equipment",Irons,"Lady Hailstorm Titanium Irons",Hailstorm,Silver,441.97,889.02,"The Marketplace","Department Store","United States",Web
+4,1201,103110,2015-01-12,84,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Marketplace","Department Store","United States",E-mail
+4,1201,103110,2015-02-09,69,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Marketplace","Department Store","United States",E-mail
+5,1201,103110,2015-03-08,64,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Marketplace","Department Store","United States",Web
+5,1201,103110,2015-05-11,68,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Marketplace","Department Store","United States",Web
+5,1201,103110,2015-07-19,81,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Marketplace","Department Store","United States",Web
+5,1201,103110,2015-08-11,69,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Marketplace","Department Store","United States",Web
+5,1201,103110,2015-09-09,66,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Marketplace","Department Store","United States",Web
+5,1201,103110,2015-10-22,70,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Marketplace","Department Store","United States",Web
+5,1201,103110,2015-11-12,63,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Marketplace","Department Store","United States",Web
+4,1201,102110,2015-03-08,93,928.53,863.53,"Golf Equipment",Irons,"Hailstorm Titanium Irons",Hailstorm,Silver,466.57,928.53,"The Marketplace","Department Store","United States",E-mail
+5,1201,102110,2015-07-19,108,928.53,863.53,"Golf Equipment",Irons,"Hailstorm Titanium Irons",Hailstorm,Silver,466.57,928.53,"The Marketplace","Department Store","United States",Web
+5,1201,102110,2015-10-22,88,928.53,863.53,"Golf Equipment",Irons,"Hailstorm Titanium Irons",Hailstorm,Silver,466.57,928.53,"The Marketplace","Department Store","United States",Web
+4,1201,101110,2015-02-09,88,630.25,586.13,"Golf Equipment",Irons,"Hailstorm Steel Irons",Hailstorm,Silver,239.71,498.45,"The Marketplace","Department Store","United States",E-mail
+5,1201,101110,2015-05-11,76,630.25,586.13,"Golf Equipment",Irons,"Hailstorm Steel Irons",Hailstorm,Silver,239.71,498.45,"The Marketplace","Department Store","United States",Web
+5,1201,101110,2015-06-09,89,630.25,586.13,"Golf Equipment",Irons,"Hailstorm Steel Irons",Hailstorm,Silver,239.71,498.45,"The Marketplace","Department Store","United States",Web
+5,1201,101110,2015-08-12,89,630.25,586.13,"Golf Equipment",Irons,"Hailstorm Steel Irons",Hailstorm,Silver,239.71,498.45,"The Marketplace","Department Store","United States",Web
+5,1201,101110,2015-10-14,168,630.25,441.18,"Golf Equipment",Irons,"Hailstorm Steel Irons",Hailstorm,Silver,239.71,498.45,"The Marketplace","Department Store","United States",Web
+4,1201,97110,2015-01-12,416,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"The Marketplace","Department Store","United States",E-mail
+4,1201,97110,2015-02-09,391,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"The Marketplace","Department Store","United States",E-mail
+5,1201,97110,2015-04-13,341,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"The Marketplace","Department Store","United States",Web
+5,1201,97110,2015-05-11,351,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"The Marketplace","Department Store","United States",Web
+5,1201,97110,2015-06-09,360,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"The Marketplace","Department Store","United States",Web
+5,1201,97110,2015-07-13,386,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"The Marketplace","Department Store","United States",Web
+5,1201,97110,2015-08-12,371,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"The Marketplace","Department Store","United States",Web
+5,1201,97110,2015-09-09,330,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"The Marketplace","Department Store","United States",Web
+5,1201,97110,2015-11-12,402,35,31.5,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"The Marketplace","Department Store","United States",Web
+4,1201,89110,2015-01-12,1730,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"The Marketplace","Department Store","United States",E-mail
+4,1201,89110,2015-02-09,1684,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"The Marketplace","Department Store","United States",E-mail
+5,1201,89110,2015-04-13,1429,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"The Marketplace","Department Store","United States",Web
+5,1201,89110,2015-06-09,1673,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"The Marketplace","Department Store","United States",Web
+5,1201,89110,2015-07-13,1744,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"The Marketplace","Department Store","United States",Web
+5,1201,89110,2015-08-12,1447,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"The Marketplace","Department Store","United States",Web
+5,1201,89110,2015-10-14,1437,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"The Marketplace","Department Store","United States",Web
+5,1201,89110,2015-11-12,1407,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"The Marketplace","Department Store","United States",Web
+4,1201,88110,2015-01-12,789,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"The Marketplace","Department Store","United States",E-mail
+4,1201,88110,2015-02-09,833,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"The Marketplace","Department Store","United States",E-mail
+5,1201,88110,2015-04-13,672,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"The Marketplace","Department Store","United States",Web
+5,1201,88110,2015-05-11,723,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"The Marketplace","Department Store","United States",Web
+5,1201,88110,2015-06-09,721,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"The Marketplace","Department Store","United States",Web
+5,1201,88110,2015-08-12,729,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"The Marketplace","Department Store","United States",Web
+4,1201,64110,2015-01-12,128,41.61,39.95,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"The Marketplace","Department Store","United States",E-mail
+5,1201,64110,2015-04-13,109,41.61,39.95,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"The Marketplace","Department Store","United States",Web
+5,1201,64110,2015-05-11,105,41.61,39.95,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"The Marketplace","Department Store","United States",Web
+5,1201,64110,2015-08-12,121,41.61,39.95,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"The Marketplace","Department Store","United States",Web
+5,1201,64110,2015-10-14,96,41.61,40.36,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"The Marketplace","Department Store","United States",Web
+5,1201,64110,2015-11-12,115,41.61,39.95,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"The Marketplace","Department Store","United States",Web
+4,1201,40110,2015-02-09,802,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"The Marketplace","Department Store","United States",E-mail
+5,1201,40110,2015-03-08,706,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"The Marketplace","Department Store","United States",Web
+5,1201,40110,2015-05-11,826,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"The Marketplace","Department Store","United States",Web
+5,1201,40110,2015-06-09,1076,27.81,22.25,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"The Marketplace","Department Store","United States",Web
+5,1201,40110,2015-08-12,1157,27.81,22.25,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"The Marketplace","Department Store","United States",Web
+5,1201,40110,2015-09-09,735,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"The Marketplace","Department Store","United States",Web
+5,1201,40110,2015-11-12,715,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"The Marketplace","Department Store","United States",Web
+4,1201,39110,2015-01-12,126,67.73,62.99,"Camping Equipment",Lanterns,"EverGlow Butane",EverGlow,Blue,40.63,67.73,"The Marketplace","Department Store","United States",E-mail
+4,1201,39110,2015-02-09,100,67.73,62.99,"Camping Equipment",Lanterns,"EverGlow Butane",EverGlow,Blue,40.63,67.73,"The Marketplace","Department Store","United States",E-mail
+5,1201,39110,2015-03-08,95,67.73,62.99,"Camping Equipment",Lanterns,"EverGlow Butane",EverGlow,Blue,40.63,67.73,"The Marketplace","Department Store","United States",Web
+5,1201,39110,2015-05-11,113,67.73,62.99,"Camping Equipment",Lanterns,"EverGlow Butane",EverGlow,Blue,40.63,67.73,"The Marketplace","Department Store","United States",Web
+5,1201,39110,2015-08-12,100,67.73,62.99,"Camping Equipment",Lanterns,"EverGlow Butane",EverGlow,Blue,40.63,67.73,"The Marketplace","Department Store","United States",Web
+5,1201,39110,2015-11-12,111,67.73,62.99,"Camping Equipment",Lanterns,"EverGlow Butane",EverGlow,Blue,40.63,67.73,"The Marketplace","Department Store","United States",Web
+5,1201,37110,2015-04-13,42,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"The Marketplace","Department Store","United States",Web
+5,1201,37110,2015-06-09,45,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"The Marketplace","Department Store","United States",Web
+5,1201,37110,2015-08-12,44,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"The Marketplace","Department Store","United States",Web
+5,1201,37110,2015-09-09,44,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"The Marketplace","Department Store","United States",Web
+5,1201,37110,2015-10-14,45,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"The Marketplace","Department Store","United States",Web
+5,1201,37110,2015-11-12,49,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"The Marketplace","Department Store","United States",Web
+4,1201,32110,2015-01-12,524,27.37,26.28,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"The Marketplace","Department Store","United States",E-mail
+4,1201,32110,2015-02-09,506,27.37,26.28,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"The Marketplace","Department Store","United States",E-mail
+5,1201,32110,2015-03-08,820,27.37,16.42,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"The Marketplace","Department Store","United States",Web
+5,1201,32110,2015-04-13,774,27.37,16.42,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"The Marketplace","Department Store","United States",Web
+5,1201,32110,2015-06-09,448,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"The Marketplace","Department Store","United States",Web
+5,1201,32110,2015-07-13,628,27.37,26.28,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"The Marketplace","Department Store","United States",Web
+5,1201,32110,2015-09-09,474,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"The Marketplace","Department Store","United States",Web
+5,1201,32110,2015-11-12,439,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"The Marketplace","Department Store","United States",Web
+4,1201,31110,2015-02-09,731,16.29,15.64,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"The Marketplace","Department Store","United States",E-mail
+5,1201,31110,2015-04-13,628,16.29,15.64,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"The Marketplace","Department Store","United States",Web
+5,1201,31110,2015-05-11,623,16.29,15.64,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"The Marketplace","Department Store","United States",Web
+5,1201,31110,2015-07-13,123,16.29,0,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"The Marketplace","Department Store","United States",Web
+5,1201,31110,2015-08-12,618,16.29,15.64,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"The Marketplace","Department Store","United States",Web
+5,1201,31110,2015-09-09,652,16.29,15.64,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"The Marketplace","Department Store","United States",Web
+5,1201,31110,2015-11-12,674,16.29,15.64,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"The Marketplace","Department Store","United States",Web
+4,1201,29110,2015-02-09,236,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"The Marketplace","Department Store","United States",E-mail
+5,1201,29110,2015-03-08,466,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"The Marketplace","Department Store","United States",Web
+5,1201,29110,2015-04-13,375,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"The Marketplace","Department Store","United States",Web
+5,1201,29110,2015-05-11,352,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"The Marketplace","Department Store","United States",Web
+5,1201,29110,2015-06-09,435,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"The Marketplace","Department Store","United States",Web
+5,1201,29110,2015-08-12,328,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"The Marketplace","Department Store","United States",Web
+5,1201,29110,2015-09-09,214,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"The Marketplace","Department Store","United States",Web
+5,1201,29110,2015-11-12,359,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"The Marketplace","Department Store","United States",Web
+4,1201,26110,2015-01-12,231,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"The Marketplace","Department Store","United States",E-mail
+5,1201,26110,2015-04-13,172,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"The Marketplace","Department Store","United States",Web
+5,1201,26110,2015-07-13,354,370.86,296.69,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"The Marketplace","Department Store","United States",Web
+5,1201,26110,2015-09-09,200,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"The Marketplace","Department Store","United States",Web
+5,1201,26110,2015-11-12,186,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"The Marketplace","Department Store","United States",Web
+4,1201,25110,2015-01-12,235,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"The Marketplace","Department Store","United States",E-mail
+4,1201,25110,2015-02-09,240,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"The Marketplace","Department Store","United States",E-mail
+5,1201,25110,2015-05-11,244,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"The Marketplace","Department Store","United States",Web
+5,1201,25110,2015-06-09,224,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"The Marketplace","Department Store","United States",Web
+5,1201,25110,2015-08-12,222,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"The Marketplace","Department Store","United States",Web
+5,1201,25110,2015-11-12,235,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"The Marketplace","Department Store","United States",Web
+4,1201,23110,2015-02-09,312,104.48,97.17,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"The Marketplace","Department Store","United States",E-mail
+5,1201,23110,2015-06-09,263,104.48,97.17,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"The Marketplace","Department Store","United States",Web
+5,1201,23110,2015-07-13,309,104.48,97.17,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"The Marketplace","Department Store","United States",Web
+5,1201,23110,2015-09-09,247,104.48,83.58,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"The Marketplace","Department Store","United States",Web
+4,1201,22110,2015-01-12,333,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"The Marketplace","Department Store","United States",E-mail
+4,1201,22110,2015-02-09,327,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"The Marketplace","Department Store","United States",E-mail
+5,1201,22110,2015-04-13,269,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"The Marketplace","Department Store","United States",Web
+5,1201,22110,2015-05-11,306,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"The Marketplace","Department Store","United States",Web
+5,1201,22110,2015-08-12,285,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"The Marketplace","Department Store","United States",Web
+5,1201,22110,2015-09-09,495,17.65,12.36,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"The Marketplace","Department Store","United States",Web
+5,1201,22110,2015-11-12,280,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"The Marketplace","Department Store","United States",Web
+4,1201,21110,2015-01-12,359,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"The Marketplace","Department Store","United States",E-mail
+4,1201,21110,2015-02-09,317,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"The Marketplace","Department Store","United States",E-mail
+5,1201,21110,2015-04-13,267,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"The Marketplace","Department Store","United States",Web
+5,1201,21110,2015-05-11,305,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"The Marketplace","Department Store","United States",Web
+5,1201,21110,2015-06-09,332,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"The Marketplace","Department Store","United States",Web
+5,1201,21110,2015-08-12,514,40.65,28.46,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"The Marketplace","Department Store","United States",Web
+5,1201,21110,2015-09-09,747,40.65,28.46,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"The Marketplace","Department Store","United States",Web
+5,1201,21110,2015-11-12,341,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"The Marketplace","Department Store","United States",Web
+4,1201,15110,2015-01-12,39,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"The Marketplace","Department Store","United States",E-mail
+4,1201,15110,2015-02-09,39,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"The Marketplace","Department Store","United States",E-mail
+5,1201,15110,2015-04-13,32,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"The Marketplace","Department Store","United States",Web
+5,1201,15110,2015-05-11,33,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"The Marketplace","Department Store","United States",Web
+5,1201,15110,2015-06-09,35,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"The Marketplace","Department Store","United States",Web
+5,1201,15110,2015-09-09,35,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"The Marketplace","Department Store","United States",Web
+5,1201,15110,2015-11-12,34,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"The Marketplace","Department Store","United States",Web
+5,1201,15110,2015-12-10,39,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"The Marketplace","Department Store","United States",Web
+4,1201,9110,2015-01-12,1716,13.22,12.43,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"The Marketplace","Department Store","United States",E-mail
+4,1201,9110,2015-02-09,1830,13.22,12.43,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"The Marketplace","Department Store","United States",E-mail
+5,1201,9110,2015-05-11,1497,13.22,12.56,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"The Marketplace","Department Store","United States",Web
+5,1201,9110,2015-08-12,3277,13.22,7.93,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"The Marketplace","Department Store","United States",Web
+5,1201,9110,2015-09-09,1511,13.22,12.43,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"The Marketplace","Department Store","United States",Web
+5,1201,9110,2015-10-14,1511,13.22,12.43,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"The Marketplace","Department Store","United States",Web
+5,1201,9110,2015-12-10,1671,13.22,12.43,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"The Marketplace","Department Store","United States",Web
+4,1201,3110,2015-01-12,1033,23.8,21.42,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"The Marketplace","Department Store","United States",E-mail
+4,1201,3110,2015-02-09,1380,23.8,21.42,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"The Marketplace","Department Store","United States",E-mail
+5,1201,3110,2015-03-08,660,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"The Marketplace","Department Store","United States",Web
+5,1201,3110,2015-04-13,662,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"The Marketplace","Department Store","United States",Web
+5,1201,3110,2015-05-11,741,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"The Marketplace","Department Store","United States",Web
+5,1201,3110,2015-06-09,676,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"The Marketplace","Department Store","United States",Web
+5,1201,3110,2015-09-09,632,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"The Marketplace","Department Store","United States",Web
+5,1201,3110,2015-11-12,737,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"The Marketplace","Department Store","United States",Web
+5,1201,3110,2015-12-10,785,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"The Marketplace","Department Store","United States",Web
+3,1204,90110,2015-01-12,6121,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Extreme",Extreme,Clear,2.42,7,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,90110,2015-06-09,5855,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Extreme",Extreme,Clear,2.42,7,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,90110,2015-11-12,5557,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Extreme",Extreme,Clear,2.42,7,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,90110,2015-12-10,6920,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Extreme",Extreme,Clear,2.42,7,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,85110,2015-11-12,101,359.6,334.43,"Personal Accessories",Navigation,"Glacier GPS Extreme",Extreme,Black,176.47,359.6,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,80110,2015-04-13,84,182.67,169.88,"Personal Accessories",Binoculars,"Seeker Extreme",Extreme,Black,94.12,182.67,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,80110,2015-09-09,78,182.67,169.88,"Personal Accessories",Binoculars,"Seeker Extreme",Extreme,Black,94.12,182.67,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,80110,2015-11-08,115,182.67,169.88,"Personal Accessories",Binoculars,"Seeker Extreme",Extreme,Black,94.12,182.67,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,75110,2015-02-09,313,119.69,111.31,"Personal Accessories",Knives,"Edge Extreme",Extreme,Red,80,119.69,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,75110,2015-11-12,267,119.69,111.31,"Personal Accessories",Knives,"Edge Extreme",Extreme,Red,80,119.69,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,67110,2015-01-12,36,294.38,273.77,"Personal Accessories",Watches,"Mountain Man Extreme",Extreme,Silver,116.19,294.38,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,67110,2015-06-09,41,294.38,273.77,"Personal Accessories",Watches,"Mountain Man Extreme",Extreme,Silver,116.19,294.38,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,67110,2015-07-14,39,294.38,273.77,"Personal Accessories",Watches,"Mountain Man Extreme",Extreme,Silver,116.19,294.38,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,67110,2015-08-12,35,294.38,273.77,"Personal Accessories",Watches,"Mountain Man Extreme",Extreme,Silver,116.19,294.38,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,67110,2015-09-09,42,294.38,273.77,"Personal Accessories",Watches,"Mountain Man Extreme",Extreme,Silver,116.19,294.38,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,67110,2015-12-10,44,294.38,273.77,"Personal Accessories",Watches,"Mountain Man Extreme",Extreme,Silver,116.19,294.38,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,39110,2015-04-13,107,67.73,62.99,"Camping Equipment",Lanterns,"EverGlow Butane",EverGlow,Blue,40.63,67.73,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,37110,2015-12-06,53,52.15,50.59,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,34110,2015-01-12,172,51.24,49.19,"Camping Equipment",Lanterns,"Firefly Extreme",Extreme,Black,29.1,53.04,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,34110,2015-02-09,188,51.24,49.19,"Camping Equipment",Lanterns,"Firefly Extreme",Extreme,Black,29.1,53.04,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,34110,2015-05-11,146,51.24,49.19,"Camping Equipment",Lanterns,"Firefly Extreme",Extreme,Black,29.1,53.04,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,27110,2015-02-09,126,460.52,428.28,"Camping Equipment",Packs,"Canyon Mule Extreme Backpack",Extreme,Blue,238.88,460.52,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,24110,2015-05-11,354,76.86,71.48,"Camping Equipment",Packs,"Canyon Mule Climber Backpack","Canyon Mule",Red,52.5,76.86,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,20110,2015-06-09,332,127.27,118.36,"Camping Equipment","Sleeping Bags","Hibernator Self - Inflating Mat",Hibernator,Blue,56.72,127.27,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,19110,2015-02-09,261,265.14,246.58,"Camping Equipment","Sleeping Bags","Hibernator Extreme",Extreme,"Dark Blue",150,265.14,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,19110,2015-05-11,243,265.14,246.58,"Camping Equipment","Sleeping Bags","Hibernator Extreme",Extreme,"Dark Blue",150,265.14,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,5110,2015-05-11,669,54.93,52.18,"Camping Equipment","Cooking Gear","TrailChef Cook Set",TrailChef,Silver,34.41,54.93,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,5110,2015-06-09,776,54.93,52.18,"Camping Equipment","Cooking Gear","TrailChef Cook Set",TrailChef,Silver,34.41,54.93,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,5110,2015-10-15,69,54.93,0,"Camping Equipment","Cooking Gear","TrailChef Cook Set",TrailChef,Silver,34.41,54.93,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1204,5110,2015-10-15,65,54.93,0,"Camping Equipment","Cooking Gear","TrailChef Cook Set",TrailChef,Silver,34.41,54.93,"Extreme Outdoors","Outdoors Shop","United States",Mail
+3,1205,72110,2015-02-17,22,148.3,142.37,"Personal Accessories",Eyewear,"Polar Extreme",Extreme,Black,72.5,148.3,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,72110,2015-05-17,21,148.3,142.37,"Personal Accessories",Eyewear,"Polar Extreme",Extreme,Black,72.5,148.3,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,72110,2015-07-14,23,148.3,142.37,"Personal Accessories",Eyewear,"Polar Extreme",Extreme,Black,72.5,148.3,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,72110,2015-10-18,19,148.3,143.85,"Personal Accessories",Eyewear,"Polar Extreme",Extreme,Black,72.5,148.3,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,71110,2015-01-12,28,95.62,92.75,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,71110,2015-02-17,33,95.62,92.75,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,71110,2015-03-19,31,95.62,92.75,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,71110,2015-06-07,32,95.62,92.75,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,71110,2015-07-14,33,95.62,92.75,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,71110,2015-08-19,28,95.62,92.75,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,71110,2015-09-16,29,95.62,92.75,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,70240,2015-01-12,70,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,70240,2015-03-19,66,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,70240,2015-04-15,50,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,70240,2015-06-07,78,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,70240,2015-09-16,61,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,70240,2015-10-18,59,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,70240,2015-11-16,58,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,69110,2015-02-17,67,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,69110,2015-03-19,58,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,69110,2015-04-15,49,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,69110,2015-05-17,51,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,69110,2015-08-19,64,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,69110,2015-09-16,53,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,69110,2015-11-16,55,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,68110,2015-03-19,70,61.84,58.13,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,68110,2015-05-17,56,61.84,58.75,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,68110,2015-06-07,60,61.84,58.75,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,68110,2015-07-14,62,61.84,58.13,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Eye Dimensions","Eyewear Store","United States",Mail
+3,1205,68110,2015-08-19,59,61.84,58.75,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Eye Dimensions","Eyewear Store","United States",Mail
+2,1209,87110,2015-01-12,1762,6.01,5.59,"Outdoor Protection","Insect Repellents","BugShield Spray",BugShield,Clear,1.83,6.01,"Second Wind Sports","Sports Store","United States",Telephone
+2,1209,87110,2015-01-12,1864,6.01,5.59,"Outdoor Protection","Insect Repellents","BugShield Spray",BugShield,Clear,1.83,6.01,"Second Wind Sports","Sports Store","United States",Telephone
+2,1209,87110,2015-05-11,1525,6.01,5.59,"Outdoor Protection","Insect Repellents","BugShield Spray",BugShield,Clear,1.83,6.01,"Second Wind Sports","Sports Store","United States",Telephone
+5,1209,87110,2015-05-20,1455,6.01,5.59,"Outdoor Protection","Insect Repellents","BugShield Spray",BugShield,Clear,1.83,6.01,"Second Wind Sports","Sports Store","United States",Web
+2,1209,87110,2015-06-08,1947,6.01,5.59,"Outdoor Protection","Insect Repellents","BugShield Spray",BugShield,Clear,1.83,6.01,"Second Wind Sports","Sports Store","United States",Telephone
+2,1209,87110,2015-06-08,1584,6.01,5.59,"Outdoor Protection","Insect Repellents","BugShield Spray",BugShield,Clear,1.83,6.01,"Second Wind Sports","Sports Store","United States",Telephone
+5,1209,87110,2015-08-20,1860,6.01,5.59,"Outdoor Protection","Insect Repellents","BugShield Spray",BugShield,Clear,1.83,6.01,"Second Wind Sports","Sports Store","United States",Web
+2,1209,87110,2015-08-11,1844,6.01,5.59,"Outdoor Protection","Insect Repellents","BugShield Spray",BugShield,Clear,1.83,6.01,"Second Wind Sports","Sports Store","United States",Telephone
+2,1209,87110,2015-12-09,1529,6.01,5.59,"Outdoor Protection","Insect Repellents","BugShield Spray",BugShield,Clear,1.83,6.01,"Second Wind Sports","Sports Store","United States",Telephone
+2,1209,76110,2015-04-13,253,40.52,38.9,"Personal Accessories",Knives,"Bear Edge",Edge,Black,23.53,40.52,"Second Wind Sports","Sports Store","United States",Telephone
+2,1209,76110,2015-04-13,234,40.52,38.9,"Personal Accessories",Knives,"Bear Edge",Edge,Black,23.53,40.52,"Second Wind Sports","Sports Store","United States",Telephone
+2,1209,76110,2015-07-13,305,40.52,38.49,"Personal Accessories",Knives,"Bear Edge",Edge,Black,23.53,40.52,"Second Wind Sports","Sports Store","United States",Telephone
+2,1209,76110,2015-07-21,297,40.52,38.49,"Personal Accessories",Knives,"Bear Edge",Edge,Black,23.53,40.52,"Second Wind Sports","Sports Store","United States",Telephone
+2,1209,76110,2015-09-08,327,40.52,38.49,"Personal Accessories",Knives,"Bear Edge",Edge,Black,23.53,40.52,"Second Wind Sports","Sports Store","United States",Telephone
+5,1209,76110,2015-09-13,319,40.52,38.49,"Personal Accessories",Knives,"Bear Edge",Edge,Black,23.53,40.52,"Second Wind Sports","Sports Store","United States",Web
+5,1209,76110,2015-10-20,280,40.52,38.49,"Personal Accessories",Knives,"Bear Edge",Edge,Black,23.53,40.52,"Second Wind Sports","Sports Store","United States",Web
+2,1209,76110,2015-10-14,328,40.52,38.49,"Personal Accessories",Knives,"Bear Edge",Edge,Black,23.53,40.52,"Second Wind Sports","Sports Store","United States",Telephone
+2,1210,115110,2015-01-13,504,10.71,10.28,"Golf Equipment","Golf Accessories","Course Pro Gloves","Course Pro",Red,2.54,10.71,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,115110,2015-05-20,441,10.71,10.39,"Golf Equipment","Golf Accessories","Course Pro Gloves","Course Pro",Red,2.54,10.71,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,115110,2015-11-17,380,10.71,10.39,"Golf Equipment","Golf Accessories","Course Pro Gloves","Course Pro",Red,2.54,10.71,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,114110,2015-02-18,63,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,114110,2015-03-09,27,219.3,175.44,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,114110,2015-08-16,54,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,114110,2015-10-14,50,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,113110,2015-03-09,27,12.81,0,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,113110,2015-06-15,631,12.81,12.3,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,113110,2015-09-16,516,12.81,12.3,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,112110,2015-01-13,533,10.64,10.21,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,112110,2015-02-18,501,10.64,10.21,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,112110,2015-03-09,533,10.64,5.11,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,112110,2015-04-21,440,10.64,10.32,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,112110,2015-05-20,491,10.64,10.32,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,112110,2015-07-22,584,10.64,10.21,"Golf Equipment","Golf Accessories","Course Pro Golf and Tee Set","Course Pro",Multicolored,2.88,10.64,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,111110,2015-01-13,174,180.63,167.99,"Golf Equipment",Putters,"Blue Steel Max Putter","Blue Steel",Bronze,89.41,180.63,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,111110,2015-02-18,185,180.63,167.99,"Golf Equipment",Putters,"Blue Steel Max Putter","Blue Steel",Bronze,89.41,180.63,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,111110,2015-05-20,148,180.63,167.99,"Golf Equipment",Putters,"Blue Steel Max Putter","Blue Steel",Bronze,89.41,180.63,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,111110,2015-06-15,167,180.63,167.99,"Golf Equipment",Putters,"Blue Steel Max Putter","Blue Steel",Bronze,89.41,180.63,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,111110,2015-10-14,139,180.63,167.99,"Golf Equipment",Putters,"Blue Steel Max Putter","Blue Steel",Bronze,89.41,180.63,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,110110,2015-06-15,168,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,110110,2015-11-17,326,98.75,59.25,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,109110,2015-01-13,477,76.86,71.48,"Golf Equipment",Putters,"Course Pro Putter","Course Pro",Brass,31.12,74.96,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,109110,2015-06-15,558,76.86,71.48,"Golf Equipment",Putters,"Course Pro Putter","Course Pro",Brass,31.12,74.96,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,109110,2015-11-17,455,76.86,71.48,"Golf Equipment",Putters,"Course Pro Putter","Course Pro",Brass,31.12,74.96,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,108110,2015-03-09,37,910.82,847.06,"Golf Equipment",Woods,"Lady Hailstorm Steel Woods Set",Hailstorm,Mahogany,449.13,910.82,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,108110,2015-08-16,25,910.82,856.17,"Golf Equipment",Woods,"Lady Hailstorm Steel Woods Set",Hailstorm,Mahogany,449.13,910.82,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,108110,2015-09-16,37,910.82,847.06,"Golf Equipment",Woods,"Lady Hailstorm Steel Woods Set",Hailstorm,Mahogany,449.13,910.82,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,108110,2015-10-14,26,910.82,847.06,"Golf Equipment",Woods,"Lady Hailstorm Steel Woods Set",Hailstorm,Mahogany,449.13,910.82,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,107110,2015-03-09,28,1359.72,1264.54,"Golf Equipment",Woods,"Lady Hailstorm Titanium Woods Set",Hailstorm,Bronze,637.81,1359.72,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,107110,2015-05-20,28,1359.72,1264.54,"Golf Equipment",Woods,"Lady Hailstorm Titanium Woods Set",Hailstorm,Bronze,637.81,1359.72,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,107110,2015-08-16,34,1359.72,1264.54,"Golf Equipment",Woods,"Lady Hailstorm Titanium Woods Set",Hailstorm,Bronze,637.81,1359.72,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,107110,2015-09-16,29,1359.72,1264.54,"Golf Equipment",Woods,"Lady Hailstorm Titanium Woods Set",Hailstorm,Bronze,637.81,1359.72,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,106110,2015-02-18,34,1161.46,1080.16,"Golf Equipment",Woods,"Hailstorm Steel Woods Set",Hailstorm,Mahogany,384.45,798.56,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,106110,2015-04-21,32,1161.46,1080.16,"Golf Equipment",Woods,"Hailstorm Steel Woods Set",Hailstorm,Mahogany,384.45,798.56,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,106110,2015-09-16,32,1161.46,1080.16,"Golf Equipment",Woods,"Hailstorm Steel Woods Set",Hailstorm,Mahogany,384.45,798.56,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,106110,2015-11-17,52,1161.46,813.02,"Golf Equipment",Woods,"Hailstorm Steel Woods Set",Hailstorm,Mahogany,384.45,798.56,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,105110,2015-01-13,59,1271.08,1182.1,"Golf Equipment",Woods,"Hailstorm Titanium Woods Set",Hailstorm,Bronze,648.72,1271.08,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,105110,2015-03-09,47,1271.08,1182.1,"Golf Equipment",Woods,"Hailstorm Titanium Woods Set",Hailstorm,Bronze,648.72,1271.08,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,105110,2015-04-21,47,1271.08,1182.1,"Golf Equipment",Woods,"Hailstorm Titanium Woods Set",Hailstorm,Bronze,648.72,1271.08,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,105110,2015-06-15,55,1271.08,1182.1,"Golf Equipment",Woods,"Hailstorm Titanium Woods Set",Hailstorm,Bronze,648.72,1271.08,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,105110,2015-07-22,64,1271.08,1182.1,"Golf Equipment",Woods,"Hailstorm Titanium Woods Set",Hailstorm,Bronze,648.72,1271.08,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,105110,2015-10-14,44,1271.08,1182.1,"Golf Equipment",Woods,"Hailstorm Titanium Woods Set",Hailstorm,Bronze,648.72,1271.08,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,104110,2015-02-18,55,889.02,826.79,"Golf Equipment",Irons,"Lady Hailstorm Titanium Irons",Hailstorm,Silver,441.97,889.02,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,104110,2015-04-21,39,889.02,826.79,"Golf Equipment",Irons,"Lady Hailstorm Titanium Irons",Hailstorm,Silver,441.97,889.02,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,104110,2015-06-15,53,889.02,826.79,"Golf Equipment",Irons,"Lady Hailstorm Titanium Irons",Hailstorm,Silver,441.97,889.02,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,104110,2015-07-22,59,889.02,826.79,"Golf Equipment",Irons,"Lady Hailstorm Titanium Irons",Hailstorm,Silver,441.97,889.02,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,104110,2015-09-16,50,889.02,826.79,"Golf Equipment",Irons,"Lady Hailstorm Titanium Irons",Hailstorm,Silver,441.97,889.02,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,103110,2015-07-22,58,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,103110,2015-08-16,52,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,103110,2015-10-14,48,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,102110,2015-02-18,68,928.53,863.53,"Golf Equipment",Irons,"Hailstorm Titanium Irons",Hailstorm,Silver,466.57,928.53,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,102110,2015-03-09,68,928.53,863.53,"Golf Equipment",Irons,"Hailstorm Titanium Irons",Hailstorm,Silver,466.57,928.53,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,102110,2015-06-15,75,928.53,863.53,"Golf Equipment",Irons,"Hailstorm Titanium Irons",Hailstorm,Silver,466.57,928.53,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,102110,2015-07-22,77,928.53,863.53,"Golf Equipment",Irons,"Hailstorm Titanium Irons",Hailstorm,Silver,466.57,928.53,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,102110,2015-10-14,60,928.53,863.53,"Golf Equipment",Irons,"Hailstorm Titanium Irons",Hailstorm,Silver,466.57,928.53,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,101110,2015-05-20,50,630.25,586.13,"Golf Equipment",Irons,"Hailstorm Steel Irons",Hailstorm,Silver,239.71,498.45,"The Golf Hut","Golf Shop","United States",Telephone
+2,1210,101110,2015-09-16,95,630.25,441.18,"Golf Equipment",Irons,"Hailstorm Steel Irons",Hailstorm,Silver,239.71,498.45,"The Golf Hut","Golf Shop","United States",Telephone
+2,1211,70240,2015-01-15,102,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,70240,2015-03-11,92,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,70240,2015-04-16,76,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,70240,2015-06-10,107,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,70240,2015-07-13,90,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,70240,2015-09-06,91,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,70240,2015-10-12,83,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,70240,2015-11-19,84,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,70240,2015-12-07,104,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,69110,2015-02-13,95,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,69110,2015-03-11,80,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,69110,2015-04-16,75,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,69110,2015-05-11,72,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,69110,2015-08-11,96,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,69110,2015-09-06,80,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,69110,2015-11-19,81,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,69110,2015-12-07,109,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,68110,2015-03-11,97,61.84,57.51,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,68110,2015-05-11,78,61.84,57.51,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,68110,2015-06-10,82,61.84,57.51,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,68110,2015-08-11,88,61.84,57.51,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1211,68110,2015-12-07,90,61.84,57.51,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Buena Vista Eyeware","Eyewear Store","United States",Telephone
+2,1213,113110,2015-02-09,919,12.81,12.3,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,113110,2015-05-21,825,12.81,12.3,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,113110,2015-09-08,802,12.81,12.3,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,113110,2015-11-11,818,12.81,12.3,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,113110,2015-12-09,881,12.81,12.3,"Golf Equipment","Golf Accessories","Course Pro Umbrella","Course Pro",Red,6.08,12.81,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,99110,2015-08-16,355,5.23,5.23,"Outdoor Protection","First Aid","Aloe Relief",Relief,Clear,1.92,5.23,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,99110,2015-11-11,368,5.23,5.23,"Outdoor Protection","First Aid","Aloe Relief",Relief,Clear,1.92,5.23,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,97110,2015-11-11,456,35,31.5,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,89110,2015-05-21,1397,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,89110,2015-11-11,1605,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,88110,2015-09-16,722,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,88110,2015-10-18,810,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,88110,2015-11-17,853,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,79110,2015-11-11,158,134.11,124.72,"Personal Accessories",Binoculars,"Seeker 50",Seeker,Black,92.58,134.11,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,70240,2015-03-08,109,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,70240,2015-06-08,125,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,69110,2015-05-21,82,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,69110,2015-09-08,83,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,69110,2015-11-11,96,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,68110,2015-08-11,96,61.84,57.51,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,65110,2015-11-11,163,81.55,75.84,"Personal Accessories",Watches,"Mountain Man Deluxe","Mountain Man",Red,39,81.55,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,64110,2015-05-21,111,41.61,39.95,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,64110,2015-11-11,139,41.61,39.95,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,63110,2015-05-21,157,48.88,46.92,"Personal Accessories",Watches,"Mountain Man Analog","Mountain Man",Green,30,48.88,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,63110,2015-07-14,188,48.88,46.92,"Personal Accessories",Watches,"Mountain Man Analog","Mountain Man",Green,30,48.88,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,40110,2015-04-21,654,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,40110,2015-11-11,832,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,39110,2015-11-11,129,67.73,62.99,"Camping Equipment",Lanterns,"EverGlow Butane",EverGlow,Blue,40.63,67.73,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,37110,2015-08-11,52,52.15,50.59,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,37110,2015-11-11,57,52.15,50.59,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,35110,2015-05-21,265,26.54,25.74,"Camping Equipment",Lanterns,"Firefly Multi-light",Firefly,Orange,17.78,26.54,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,35110,2015-11-17,305,26.54,25.74,"Camping Equipment",Lanterns,"Firefly Multi-light",Firefly,Orange,17.78,26.54,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,32110,2015-08-16,524,27.37,26.28,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,32110,2015-11-11,511,27.37,26.28,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,31110,2015-11-11,784,16.29,15.64,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,29110,2015-11-11,423,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,28110,2015-11-17,749,33.59,32.25,"Camping Equipment",Packs,"Canyon Mule Cooler","Canyon Mule",Blue,15.27,32.69,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,26110,2015-06-14,244,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,26110,2015-11-11,219,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,25110,2015-11-11,277,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,23110,2015-11-17,308,104.48,97.17,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,22110,2015-11-11,315,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,21110,2015-11-11,383,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,15110,2015-05-21,33,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,15110,2015-11-11,38,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,9110,2015-04-21,1560,13.22,12.43,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,9110,2015-05-11,1586,13.22,12.43,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,9110,2015-11-17,1866,13.22,12.43,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,3110,2015-08-16,883,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Edward's Department Store","Department Store","United States",Telephone
+2,1213,3110,2015-11-11,899,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Edward's Department Store","Department Store","United States",Telephone
+2,1215,98110,2015-05-20,226,6,6,"Outdoor Protection","First Aid","Calamine Relief",Relief,Clear,2.83,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,98110,2015-05-12,206,6,6,"Outdoor Protection","First Aid","Calamine Relief",Relief,Clear,2.83,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,98110,2015-06-09,286,6,5.82,"Outdoor Protection","First Aid","Calamine Relief",Relief,Clear,2.83,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,98110,2015-06-07,205,6,5.82,"Outdoor Protection","First Aid","Calamine Relief",Relief,Clear,2.83,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,98110,2015-06-15,323,6,5.82,"Outdoor Protection","First Aid","Calamine Relief",Relief,Clear,2.83,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,96110,2015-01-12,493,23,22.08,"Outdoor Protection","First Aid","Compact Relief Kit",Relief,White,9.03,23,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,96110,2015-01-12,455,23,22.08,"Outdoor Protection","First Aid","Compact Relief Kit",Relief,White,9.03,23,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,96110,2015-04-13,362,23,22.08,"Outdoor Protection","First Aid","Compact Relief Kit",Relief,White,9.03,23,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,96110,2015-04-21,358,23,22.08,"Outdoor Protection","First Aid","Compact Relief Kit",Relief,White,9.03,23,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,96110,2015-06-09,379,23,21.85,"Outdoor Protection","First Aid","Compact Relief Kit",Relief,White,9.03,23,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,96110,2015-06-07,272,23,21.85,"Outdoor Protection","First Aid","Compact Relief Kit",Relief,White,9.03,23,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,96110,2015-06-15,429,23,21.85,"Outdoor Protection","First Aid","Compact Relief Kit",Relief,White,9.03,23,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,96110,2015-10-15,336,23,22.08,"Outdoor Protection","First Aid","Compact Relief Kit",Relief,White,9.03,23,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,96110,2015-10-18,237,23,22.08,"Outdoor Protection","First Aid","Compact Relief Kit",Relief,White,9.03,23,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,96110,2015-10-14,388,23,22.08,"Outdoor Protection","First Aid","Compact Relief Kit",Relief,White,9.03,23,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,95110,2015-07-14,1782,6,5.7,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,95110,2015-12-10,1535,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,95110,2015-12-09,1542,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,93110,2015-01-12,1913,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter 15",Sun,White,1.79,4.99,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,93110,2015-01-12,1695,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter 15",Sun,White,1.79,4.99,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,93110,2015-03-08,1392,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter 15",Sun,White,1.79,4.99,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,93110,2015-03-08,1665,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter 15",Sun,White,1.79,4.99,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,93110,2015-07-14,2214,5,4.7,"Outdoor Protection",Sunscreen,"Sun Shelter 15",Sun,White,1.79,4.99,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-03-08,1082,5,4.7,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-03-08,1294,5,4.7,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-04-13,1226,5,4.7,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-04-21,1264,5,4.7,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-06-09,1286,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-06-07,1001,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-06-15,1513,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-10-15,1068,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-10-18,815,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-10-14,1281,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-12-10,1605,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,92110,2015-12-09,1613,5,4.65,"Outdoor Protection",Sunscreen,"Sun Shelter Stick",Sun,White,1.96,5,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,86110,2015-01-12,2615,6,5.58,"Outdoor Protection","Insect Repellents","BugShield Natural",BugShield,Clear,1.86,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,86110,2015-01-12,2548,6,5.58,"Outdoor Protection","Insect Repellents","BugShield Natural",BugShield,Clear,1.86,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,86110,2015-03-08,2500,6,5.58,"Outdoor Protection","Insect Repellents","BugShield Natural",BugShield,Clear,1.86,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,86110,2015-03-08,2718,6,5.58,"Outdoor Protection","Insect Repellents","BugShield Natural",BugShield,Clear,1.86,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,86110,2015-06-09,2877,6,5.58,"Outdoor Protection","Insect Repellents","BugShield Natural",BugShield,Clear,1.86,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,86110,2015-06-07,2078,6,5.58,"Outdoor Protection","Insect Repellents","BugShield Natural",BugShield,Clear,1.86,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,86110,2015-06-15,3075,6,5.58,"Outdoor Protection","Insect Repellents","BugShield Natural",BugShield,Clear,1.86,6,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,83110,2015-01-12,156,96.44,89.69,"Personal Accessories",Navigation,"Glacier Deluxe",Glacier,Black,54.44,96.44,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,83110,2015-01-12,137,96.44,89.69,"Personal Accessories",Navigation,"Glacier Deluxe",Glacier,Black,54.44,96.44,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,83110,2015-03-08,120,96.44,89.69,"Personal Accessories",Navigation,"Glacier Deluxe",Glacier,Black,54.44,96.44,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,83110,2015-03-08,144,96.44,89.69,"Personal Accessories",Navigation,"Glacier Deluxe",Glacier,Black,54.44,96.44,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,81110,2015-07-13,55,85.56,79.57,"Personal Accessories",Binoculars,"Seeker Mini",Seeker,Black,40,85.56,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,81110,2015-07-14,81,85.56,79.57,"Personal Accessories",Binoculars,"Seeker Mini",Seeker,Black,40,85.56,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,81110,2015-07-14,69,85.56,79.57,"Personal Accessories",Binoculars,"Seeker Mini",Seeker,Black,40,85.56,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,81110,2015-10-15,139,85.56,79.57,"Personal Accessories",Binoculars,"Seeker Mini",Seeker,Black,40,85.56,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,81110,2015-10-18,102,85.56,79.57,"Personal Accessories",Binoculars,"Seeker Mini",Seeker,Black,40,85.56,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,81110,2015-10-14,161,85.56,79.57,"Personal Accessories",Binoculars,"Seeker Mini",Seeker,Black,40,85.56,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-03-08,692,16.64,15.64,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-03-08,809,16.64,15.64,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-05-20,615,16.64,15.81,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-05-12,551,16.64,15.81,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-07-13,628,16.64,15.48,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-07-14,947,16.64,15.48,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-07-14,798,16.64,15.48,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-08-13,562,16.64,15.48,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-08-12,823,16.64,15.48,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-08-16,876,16.64,15.48,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-11-16,466,16.64,15.64,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-11-12,665,16.64,15.64,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,74110,2015-11-08,773,16.64,15.64,"Personal Accessories",Knives,"Double Edge",Edge,Red,11.43,16.64,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,73110,2015-01-12,3992,12.78,11.89,"Personal Accessories",Knives,"Single Edge",Edge,Black,8.56,12.78,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,73110,2015-01-12,3619,12.78,11.89,"Personal Accessories",Knives,"Single Edge",Edge,Black,8.56,12.78,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,73110,2015-06-09,3765,12.78,12.78,"Personal Accessories",Knives,"Single Edge",Edge,Black,8.56,12.78,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,73110,2015-06-07,2804,12.78,12.78,"Personal Accessories",Knives,"Single Edge",Edge,Black,8.56,12.78,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,73110,2015-06-15,4325,12.78,12.78,"Personal Accessories",Knives,"Single Edge",Edge,Black,8.56,12.78,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,73110,2015-07-13,2813,12.78,12.78,"Personal Accessories",Knives,"Single Edge",Edge,Black,8.56,12.78,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,73110,2015-07-14,4241,12.78,12.78,"Personal Accessories",Knives,"Single Edge",Edge,Black,8.56,12.78,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,73110,2015-07-14,3575,12.78,12.78,"Personal Accessories",Knives,"Single Edge",Edge,Black,8.56,12.78,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,38110,2015-02-18,311,31.55,30.29,"Camping Equipment",Lanterns,"EverGlow Kerosene",EverGlow,Silver,20,31.55,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,38110,2015-02-09,328,31.55,30.29,"Camping Equipment",Lanterns,"EverGlow Kerosene",EverGlow,Silver,20,31.55,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,38110,2015-06-09,567,31.55,25.24,"Camping Equipment",Lanterns,"EverGlow Kerosene",EverGlow,Silver,20,31.55,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,38110,2015-06-07,413,31.55,25.24,"Camping Equipment",Lanterns,"EverGlow Kerosene",EverGlow,Silver,20,31.55,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,38110,2015-06-15,608,31.55,25.24,"Camping Equipment",Lanterns,"EverGlow Kerosene",EverGlow,Silver,20,31.55,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,38110,2015-10-15,232,31.55,30.29,"Camping Equipment",Lanterns,"EverGlow Kerosene",EverGlow,Silver,20,31.55,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,38110,2015-10-18,166,31.55,30.29,"Camping Equipment",Lanterns,"EverGlow Kerosene",EverGlow,Silver,20,31.55,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,38110,2015-10-14,253,31.55,30.29,"Camping Equipment",Lanterns,"EverGlow Kerosene",EverGlow,Silver,20,31.55,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,36110,2015-05-20,712,34.9,27.92,"Camping Equipment",Lanterns,"EverGlow Single",EverGlow,Blue,17.95,35.1,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,36110,2015-05-12,686,34.9,27.92,"Camping Equipment",Lanterns,"EverGlow Single",EverGlow,Blue,17.95,35.1,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,36110,2015-10-15,473,34.9,32.81,"Camping Equipment",Lanterns,"EverGlow Single",EverGlow,Blue,17.95,35.1,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,36110,2015-10-18,338,34.9,32.81,"Camping Equipment",Lanterns,"EverGlow Single",EverGlow,Blue,17.95,35.1,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,36110,2015-10-14,517,34.9,32.81,"Camping Equipment",Lanterns,"EverGlow Single",EverGlow,Blue,17.95,35.1,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,31110,2015-03-08,680,16.29,15.48,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,31110,2015-03-08,740,16.29,15.48,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,31110,2015-07-13,637,16.29,15.48,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,31110,2015-07-14,835,16.29,15.48,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,31110,2015-08-13,249,16.29,0,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,31110,2015-08-12,361,16.29,0,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,31110,2015-08-16,354,16.29,0,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,30110,2015-05-20,483,14.77,14.18,"Camping Equipment",Lanterns,"Firefly Lite",Firefly,Black,6.75,14.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,30110,2015-05-12,464,14.77,14.18,"Camping Equipment",Lanterns,"Firefly Lite",Firefly,Black,6.75,14.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,30110,2015-06-09,549,14.77,13.88,"Camping Equipment",Lanterns,"Firefly Lite",Firefly,Black,6.75,14.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,30110,2015-06-07,401,14.77,13.88,"Camping Equipment",Lanterns,"Firefly Lite",Firefly,Black,6.75,14.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,30110,2015-06-15,588,14.77,13.88,"Camping Equipment",Lanterns,"Firefly Lite",Firefly,Black,6.75,14.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,30110,2015-08-13,385,14.77,13.88,"Camping Equipment",Lanterns,"Firefly Lite",Firefly,Black,6.75,14.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,30110,2015-08-12,575,14.77,13.88,"Camping Equipment",Lanterns,"Firefly Lite",Firefly,Black,6.75,14.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,30110,2015-08-16,571,14.77,13.88,"Camping Equipment",Lanterns,"Firefly Lite",Firefly,Black,6.75,14.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,30110,2015-11-16,390,14.77,13.88,"Camping Equipment",Lanterns,"Firefly Lite",Firefly,Black,6.75,14.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,30110,2015-11-12,569,14.77,13.88,"Camping Equipment",Lanterns,"Firefly Lite",Firefly,Black,6.75,14.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,30110,2015-11-08,617,14.77,13.88,"Camping Equipment",Lanterns,"Firefly Lite",Firefly,Black,6.75,14.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,23110,2015-05-20,172,104.48,97.17,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,23110,2015-05-12,162,104.48,97.17,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,23110,2015-10-15,191,104.48,97.17,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,23110,2015-10-18,141,104.48,97.17,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,23110,2015-10-14,214,104.48,97.17,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,23110,2015-12-10,363,104.48,97.17,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,23110,2015-12-09,340,104.48,97.17,"Camping Equipment","Sleeping Bags","Hibernator Camp Cot",Hibernator,Brown,65.41,104.48,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,13110,2015-03-08,205,582.42,541.65,"Camping Equipment",Tents,"Star Gazer 2",Star,"Light Blue",392.57,582.42,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,13110,2015-03-08,221,582.42,541.65,"Camping Equipment",Tents,"Star Gazer 2",Star,"Light Blue",392.57,582.42,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,13110,2015-07-13,212,582.42,541.65,"Camping Equipment",Tents,"Star Gazer 2",Star,"Light Blue",392.57,582.42,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,13110,2015-07-14,294,582.42,541.65,"Camping Equipment",Tents,"Star Gazer 2",Star,"Light Blue",392.57,582.42,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,13110,2015-07-14,268,582.42,541.65,"Camping Equipment",Tents,"Star Gazer 2",Star,"Light Blue",392.57,582.42,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,13110,2015-11-16,177,582.42,541.65,"Camping Equipment",Tents,"Star Gazer 2",Star,"Light Blue",392.57,582.42,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,13110,2015-11-12,252,582.42,541.65,"Camping Equipment",Tents,"Star Gazer 2",Star,"Light Blue",392.57,582.42,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,13110,2015-11-08,270,582.42,541.65,"Camping Equipment",Tents,"Star Gazer 2",Star,"Light Blue",392.57,582.42,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,12110,2015-07-13,110,650.89,605.33,"Camping Equipment",Tents,"Star Dome",Star,Red,396,650.89,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,12110,2015-07-14,153,650.89,605.33,"Camping Equipment",Tents,"Star Dome",Star,Red,396,650.89,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,12110,2015-07-14,139,650.89,605.33,"Camping Equipment",Tents,"Star Dome",Star,Red,396,650.89,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,12110,2015-12-10,154,650.89,605.33,"Camping Equipment",Tents,"Star Dome",Star,Red,396,650.89,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,12110,2015-12-09,140,650.89,605.33,"Camping Equipment",Tents,"Star Dome",Star,Red,396,650.89,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-02-18,391,370.13,344.22,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-02-09,415,370.13,344.22,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-03-08,402,370.13,344.22,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-03-08,434,370.13,344.22,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-04-13,403,370.13,344.22,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-04-21,375,370.13,344.22,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-05-20,350,370.13,344.22,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-05-12,339,370.13,344.22,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-08-13,435,370.13,357.18,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-08-12,632,370.13,357.18,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-08-16,621,370.13,357.18,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-10-15,374,370.13,344.22,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-10-18,274,370.13,344.22,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,11110,2015-10-14,405,370.13,344.22,"Camping Equipment",Tents,"Star Lite",Star,Beige,250,370.13,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,8110,2015-04-13,189,151.77,141.15,"Camping Equipment","Cooking Gear","TrailChef Double Flame",TrailChef,Green,75,151.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,8110,2015-04-21,190,151.77,141.15,"Camping Equipment","Cooking Gear","TrailChef Double Flame",TrailChef,Green,75,151.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,8110,2015-05-20,194,151.77,141.15,"Camping Equipment","Cooking Gear","TrailChef Double Flame",TrailChef,Green,75,151.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,8110,2015-05-12,174,151.77,141.15,"Camping Equipment","Cooking Gear","TrailChef Double Flame",TrailChef,Green,75,151.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,8110,2015-09-09,212,151.77,141.15,"Camping Equipment","Cooking Gear","TrailChef Double Flame",TrailChef,Green,75,151.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,8110,2015-09-17,135,151.77,141.15,"Camping Equipment","Cooking Gear","TrailChef Double Flame",TrailChef,Green,75,151.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,8110,2015-09-15,217,151.77,141.15,"Camping Equipment","Cooking Gear","TrailChef Double Flame",TrailChef,Green,75,151.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,7110,2015-02-18,867,66.77,60.09,"Camping Equipment","Cooking Gear","TrailChef Single Flame",TrailChef,Silver,46.38,66.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,7110,2015-02-09,847,66.77,60.09,"Camping Equipment","Cooking Gear","TrailChef Single Flame",TrailChef,Silver,46.38,66.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,7110,2015-07-13,501,66.77,62.1,"Camping Equipment","Cooking Gear","TrailChef Single Flame",TrailChef,Silver,46.38,66.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,7110,2015-07-14,806,66.77,62.1,"Camping Equipment","Cooking Gear","TrailChef Single Flame",TrailChef,Silver,46.38,66.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,7110,2015-07-14,680,66.77,62.1,"Camping Equipment","Cooking Gear","TrailChef Single Flame",TrailChef,Silver,46.38,66.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,7110,2015-12-10,737,66.77,62.1,"Camping Equipment","Cooking Gear","TrailChef Single Flame",TrailChef,Silver,46.38,66.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,7110,2015-12-09,722,66.77,62.1,"Camping Equipment","Cooking Gear","TrailChef Single Flame",TrailChef,Silver,46.38,66.77,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,6110,2015-03-08,347,129.72,120.64,"Camping Equipment","Cooking Gear","TrailChef Deluxe Cook Set",TrailChef,Silver,78.72,129.72,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,6110,2015-03-08,405,129.72,120.64,"Camping Equipment","Cooking Gear","TrailChef Deluxe Cook Set",TrailChef,Silver,78.72,129.72,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,6110,2015-04-13,396,129.72,120.64,"Camping Equipment","Cooking Gear","TrailChef Deluxe Cook Set",TrailChef,Silver,78.72,129.72,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,6110,2015-04-21,398,129.72,120.64,"Camping Equipment","Cooking Gear","TrailChef Deluxe Cook Set",TrailChef,Silver,78.72,129.72,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,6110,2015-07-13,282,129.72,120.64,"Camping Equipment","Cooking Gear","TrailChef Deluxe Cook Set",TrailChef,Silver,78.72,129.72,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,6110,2015-08-13,255,129.72,120.64,"Camping Equipment","Cooking Gear","TrailChef Deluxe Cook Set",TrailChef,Silver,78.72,129.72,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,6110,2015-08-12,399,129.72,120.64,"Camping Equipment","Cooking Gear","TrailChef Deluxe Cook Set",TrailChef,Silver,78.72,129.72,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,6110,2015-08-16,425,129.72,120.64,"Camping Equipment","Cooking Gear","TrailChef Deluxe Cook Set",TrailChef,Silver,78.72,129.72,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,6110,2015-10-15,329,129.72,120.64,"Camping Equipment","Cooking Gear","TrailChef Deluxe Cook Set",TrailChef,Silver,78.72,129.72,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,6110,2015-10-18,225,129.72,120.64,"Camping Equipment","Cooking Gear","TrailChef Deluxe Cook Set",TrailChef,Silver,78.72,129.72,"Consumer Club","Warehouse Store","United States",Telephone
+2,1215,6110,2015-10-14,384,129.72,120.64,"Camping Equipment","Cooking Gear","TrailChef Deluxe Cook Set",TrailChef,Silver,78.72,129.72,"Consumer Club","Warehouse Store","United States",Telephone
+2,1216,110110,2015-01-13,152,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"Connor Department Store","Department Store","United States",Telephone
+2,1216,110110,2015-02-17,154,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"Connor Department Store","Department Store","United States",Telephone
+2,1216,110110,2015-04-16,128,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"Connor Department Store","Department Store","United States",Telephone
+2,1216,110110,2015-05-21,130,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"Connor Department Store","Department Store","United States",Telephone
+2,1216,110110,2015-09-09,143,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"Connor Department Store","Department Store","United States",Telephone
+2,1216,110110,2015-10-14,237,98.75,59.25,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"Connor Department Store","Department Store","United States",Telephone
+2,1216,110110,2015-12-13,172,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,"Connor Department Store","Department Store","United States",Telephone
+2,1216,99110,2015-01-13,246,5.23,5.23,"Outdoor Protection","First Aid","Aloe Relief",Relief,Clear,1.92,5.23,"Connor Department Store","Department Store","United States",Telephone
+2,1216,99110,2015-03-17,217,5.23,5.23,"Outdoor Protection","First Aid","Aloe Relief",Relief,Clear,1.92,5.23,"Connor Department Store","Department Store","United States",Telephone
+2,1216,99110,2015-04-16,195,5.23,5.23,"Outdoor Protection","First Aid","Aloe Relief",Relief,Clear,1.92,5.23,"Connor Department Store","Department Store","United States",Telephone
+2,1216,99110,2015-08-10,223,5.23,5.23,"Outdoor Protection","First Aid","Aloe Relief",Relief,Clear,1.92,5.23,"Connor Department Store","Department Store","United States",Telephone
+2,1216,99110,2015-10-14,186,5.23,5.23,"Outdoor Protection","First Aid","Aloe Relief",Relief,Clear,1.92,5.23,"Connor Department Store","Department Store","United States",Telephone
+2,1216,99110,2015-11-15,217,5.23,5.23,"Outdoor Protection","First Aid","Aloe Relief",Relief,Clear,1.92,5.23,"Connor Department Store","Department Store","United States",Telephone
+2,1216,99110,2015-12-07,250,5.23,5.23,"Outdoor Protection","First Aid","Aloe Relief",Relief,Clear,1.92,5.23,"Connor Department Store","Department Store","United States",Telephone
+2,1216,97110,2015-01-13,274,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"Connor Department Store","Department Store","United States",Telephone
+2,1216,97110,2015-02-17,278,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"Connor Department Store","Department Store","United States",Telephone
+2,1216,97110,2015-04-16,221,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"Connor Department Store","Department Store","United States",Telephone
+2,1216,97110,2015-05-21,224,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"Connor Department Store","Department Store","United States",Telephone
+2,1216,97110,2015-06-10,282,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"Connor Department Store","Department Store","United States",Telephone
+2,1216,97110,2015-08-19,270,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"Connor Department Store","Department Store","United States",Telephone
+2,1216,97110,2015-09-09,217,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"Connor Department Store","Department Store","United States",Telephone
+2,1216,97110,2015-10-14,209,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"Connor Department Store","Department Store","United States",Telephone
+2,1216,97110,2015-11-15,272,35,31.5,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,"Connor Department Store","Department Store","United States",Telephone
+2,1216,95110,2015-02-17,1235,6,5.76,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,"Connor Department Store","Department Store","United States",Telephone
+2,1216,95110,2015-04-16,1052,6,5.76,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,"Connor Department Store","Department Store","United States",Telephone
+2,1216,95110,2015-05-21,1250,6,5.76,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,"Connor Department Store","Department Store","United States",Telephone
+2,1216,95110,2015-08-19,1428,6,5.76,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,"Connor Department Store","Department Store","United States",Telephone
+2,1216,95110,2015-09-09,977,6,5.82,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,"Connor Department Store","Department Store","United States",Telephone
+2,1216,95110,2015-10-14,1069,6,5.76,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,"Connor Department Store","Department Store","United States",Telephone
+2,1216,93110,2015-02-17,1237,5,4.8,"Outdoor Protection",Sunscreen,"Sun Shelter 15",Sun,White,1.79,4.99,"Connor Department Store","Department Store","United States",Telephone
+2,1216,93110,2015-04-16,1067,5,4.8,"Outdoor Protection",Sunscreen,"Sun Shelter 15",Sun,White,1.79,4.99,"Connor Department Store","Department Store","United States",Telephone
+2,1216,93110,2015-05-21,1109,5,4.8,"Outdoor Protection",Sunscreen,"Sun Shelter 15",Sun,White,1.79,4.99,"Connor Department Store","Department Store","United States",Telephone
+2,1216,93110,2015-08-19,1171,5,4.8,"Outdoor Protection",Sunscreen,"Sun Shelter 15",Sun,White,1.79,4.99,"Connor Department Store","Department Store","United States",Telephone
+2,1216,93110,2015-11-15,1171,5,4.8,"Outdoor Protection",Sunscreen,"Sun Shelter 15",Sun,White,1.79,4.99,"Connor Department Store","Department Store","United States",Telephone
+2,1216,89110,2015-01-13,1209,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,89110,2015-02-17,1269,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,89110,2015-03-19,1049,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,89110,2015-04-16,981,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,89110,2015-05-12,953,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,89110,2015-06-10,1389,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,89110,2015-08-19,1115,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,89110,2015-10-14,997,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,89110,2015-11-15,1007,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,89110,2015-12-13,1249,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,88110,2015-01-13,551,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,88110,2015-02-17,628,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,88110,2015-04-16,461,7,7,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,88110,2015-05-21,489,7,7,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,88110,2015-06-10,598,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,88110,2015-08-19,562,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,88110,2015-09-14,499,7,7,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,88110,2015-11-08,535,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,88110,2015-12-13,648,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,"Connor Department Store","Department Store","United States",Telephone
+2,1216,64110,2015-01-13,91,41.61,40.36,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"Connor Department Store","Department Store","United States",Telephone
+2,1216,64110,2015-03-19,77,41.61,40.36,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"Connor Department Store","Department Store","United States",Telephone
+2,1216,64110,2015-04-16,77,41.61,40.36,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"Connor Department Store","Department Store","United States",Telephone
+2,1216,64110,2015-05-21,73,41.61,40.36,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"Connor Department Store","Department Store","United States",Telephone
+2,1216,64110,2015-07-14,97,41.61,40.36,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"Connor Department Store","Department Store","United States",Telephone
+2,1216,64110,2015-08-19,95,41.61,40.36,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"Connor Department Store","Department Store","United States",Telephone
+2,1216,64110,2015-10-14,68,41.61,40.36,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"Connor Department Store","Department Store","United States",Telephone
+2,1216,64110,2015-11-15,84,41.61,40.36,"Personal Accessories",Watches,"Mountain Man Digital","Mountain Man",Blue,20,41.61,"Connor Department Store","Department Store","United States",Telephone
+2,1216,40110,2015-01-13,600,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"Connor Department Store","Department Store","United States",Telephone
+2,1216,40110,2015-02-17,621,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"Connor Department Store","Department Store","United States",Telephone
+2,1216,40110,2015-04-20,458,27.81,26.98,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"Connor Department Store","Department Store","United States",Telephone
+2,1216,40110,2015-05-21,574,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"Connor Department Store","Department Store","United States",Telephone
+2,1216,40110,2015-06-10,907,27.81,22.25,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"Connor Department Store","Department Store","United States",Telephone
+2,1216,40110,2015-08-19,918,27.81,22.25,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"Connor Department Store","Department Store","United States",Telephone
+2,1216,40110,2015-09-09,527,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"Connor Department Store","Department Store","United States",Telephone
+2,1216,40110,2015-11-15,526,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"Connor Department Store","Department Store","United States",Telephone
+2,1216,40110,2015-12-13,769,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,"Connor Department Store","Department Store","United States",Telephone
+2,1216,37110,2015-04-16,29,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"Connor Department Store","Department Store","United States",Telephone
+2,1216,37110,2015-06-10,38,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"Connor Department Store","Department Store","United States",Telephone
+2,1216,37110,2015-08-19,35,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"Connor Department Store","Department Store","United States",Telephone
+2,1216,37110,2015-09-09,32,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"Connor Department Store","Department Store","United States",Telephone
+2,1216,37110,2015-10-14,32,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"Connor Department Store","Department Store","United States",Telephone
+2,1216,37110,2015-11-15,36,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,"Connor Department Store","Department Store","United States",Telephone
+2,1216,35110,2015-01-13,179,26.54,25.74,"Camping Equipment",Lanterns,"Firefly Multi-light",Firefly,Orange,17.78,26.54,"Connor Department Store","Department Store","United States",Telephone
+2,1216,35110,2015-02-17,197,26.54,25.74,"Camping Equipment",Lanterns,"Firefly Multi-light",Firefly,Orange,17.78,26.54,"Connor Department Store","Department Store","United States",Telephone
+2,1216,35110,2015-04-16,191,26.54,23.89,"Camping Equipment",Lanterns,"Firefly Multi-light",Firefly,Orange,17.78,26.54,"Connor Department Store","Department Store","United States",Telephone
+2,1216,35110,2015-05-12,182,26.54,25.74,"Camping Equipment",Lanterns,"Firefly Multi-light",Firefly,Orange,17.78,26.54,"Connor Department Store","Department Store","United States",Telephone
+2,1216,35110,2015-08-19,184,26.54,25.74,"Camping Equipment",Lanterns,"Firefly Multi-light",Firefly,Orange,17.78,26.54,"Connor Department Store","Department Store","United States",Telephone
+2,1216,35110,2015-09-09,159,26.54,25.74,"Camping Equipment",Lanterns,"Firefly Multi-light",Firefly,Orange,17.78,26.54,"Connor Department Store","Department Store","United States",Telephone
+2,1216,35110,2015-10-14,168,26.54,25.74,"Camping Equipment",Lanterns,"Firefly Multi-light",Firefly,Orange,17.78,26.54,"Connor Department Store","Department Store","United States",Telephone
+2,1216,35110,2015-11-08,193,26.54,25.74,"Camping Equipment",Lanterns,"Firefly Multi-light",Firefly,Orange,17.78,26.54,"Connor Department Store","Department Store","United States",Telephone
+2,1216,35110,2015-12-07,221,26.54,25.74,"Camping Equipment",Lanterns,"Firefly Multi-light",Firefly,Orange,17.78,26.54,"Connor Department Store","Department Store","United States",Telephone
+2,1216,32110,2015-01-13,377,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"Connor Department Store","Department Store","United States",Telephone
+2,1216,32110,2015-02-17,392,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"Connor Department Store","Department Store","United States",Telephone
+2,1216,32110,2015-04-16,546,27.37,16.42,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"Connor Department Store","Department Store","United States",Telephone
+2,1216,32110,2015-06-10,382,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"Connor Department Store","Department Store","United States",Telephone
+2,1216,32110,2015-08-10,353,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"Connor Department Store","Department Store","United States",Telephone
+2,1216,32110,2015-09-09,339,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"Connor Department Store","Department Store","United States",Telephone
+2,1216,32110,2015-10-14,321,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"Connor Department Store","Department Store","United States",Telephone
+2,1216,32110,2015-11-15,323,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"Connor Department Store","Department Store","United States",Telephone
+2,1216,32110,2015-12-13,448,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,"Connor Department Store","Department Store","United States",Telephone
+2,1216,31110,2015-01-13,486,16.29,15.8,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Connor Department Store","Department Store","United States",Telephone
+2,1216,31110,2015-02-17,566,16.29,15.64,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Connor Department Store","Department Store","United States",Telephone
+2,1216,31110,2015-04-16,443,16.29,15.8,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Connor Department Store","Department Store","United States",Telephone
+2,1216,31110,2015-05-21,433,16.29,15.8,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Connor Department Store","Department Store","United States",Telephone
+2,1216,31110,2015-07-14,98,16.29,0,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Connor Department Store","Department Store","United States",Telephone
+2,1216,31110,2015-08-19,490,16.29,15.8,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Connor Department Store","Department Store","United States",Telephone
+2,1216,31110,2015-09-09,466,16.29,15.8,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Connor Department Store","Department Store","United States",Telephone
+2,1216,31110,2015-11-15,496,16.29,15.8,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Connor Department Store","Department Store","United States",Telephone
+2,1216,31110,2015-12-13,582,16.29,15.64,"Camping Equipment",Lanterns,"Firefly Mapreader",Firefly,Yellow,7.5,16.29,"Connor Department Store","Department Store","United States",Telephone
+2,1216,29110,2015-01-13,301,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"Connor Department Store","Department Store","United States",Telephone
+2,1216,29110,2015-02-17,184,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"Connor Department Store","Department Store","United States",Telephone
+2,1216,29110,2015-04-16,267,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"Connor Department Store","Department Store","United States",Telephone
+2,1216,29110,2015-05-21,246,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"Connor Department Store","Department Store","United States",Telephone
+2,1216,29110,2015-06-10,374,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"Connor Department Store","Department Store","United States",Telephone
+2,1216,29110,2015-08-19,262,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"Connor Department Store","Department Store","United States",Telephone
+2,1216,29110,2015-09-09,154,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"Connor Department Store","Department Store","United States",Telephone
+2,1216,29110,2015-11-15,267,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"Connor Department Store","Department Store","United States",Telephone
+2,1216,29110,2015-12-13,421,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,"Connor Department Store","Department Store","United States",Telephone
+2,1216,26110,2015-01-13,167,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"Connor Department Store","Department Store","United States",Telephone
+2,1216,26110,2015-04-16,122,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"Connor Department Store","Department Store","United States",Telephone
+2,1216,26110,2015-06-15,165,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"Connor Department Store","Department Store","United States",Telephone
+2,1216,26110,2015-09-09,144,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"Connor Department Store","Department Store","United States",Telephone
+2,1216,26110,2015-11-15,138,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"Connor Department Store","Department Store","United States",Telephone
+2,1216,26110,2015-12-13,176,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,"Connor Department Store","Department Store","United States",Telephone
+2,1216,25110,2015-01-13,170,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"Connor Department Store","Department Store","United States",Telephone
+2,1216,25110,2015-02-17,187,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"Connor Department Store","Department Store","United States",Telephone
+2,1216,25110,2015-05-21,171,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"Connor Department Store","Department Store","United States",Telephone
+2,1216,25110,2015-06-10,192,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"Connor Department Store","Department Store","United States",Telephone
+2,1216,25110,2015-08-19,177,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"Connor Department Store","Department Store","United States",Telephone
+2,1216,25110,2015-11-15,174,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,"Connor Department Store","Department Store","United States",Telephone
+2,1216,22110,2015-01-13,233,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"Connor Department Store","Department Store","United States",Telephone
+2,1216,22110,2015-02-17,247,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"Connor Department Store","Department Store","United States",Telephone
+2,1216,22110,2015-04-16,184,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"Connor Department Store","Department Store","United States",Telephone
+2,1216,22110,2015-05-21,207,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"Connor Department Store","Department Store","United States",Telephone
+2,1216,22110,2015-08-19,220,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"Connor Department Store","Department Store","United States",Telephone
+2,1216,22110,2015-09-09,347,17.65,12.36,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"Connor Department Store","Department Store","United States",Telephone
+2,1216,22110,2015-11-15,201,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"Connor Department Store","Department Store","United States",Telephone
+2,1216,22110,2015-12-13,270,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,"Connor Department Store","Department Store","United States",Telephone
+2,1216,21110,2015-01-13,251,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"Connor Department Store","Department Store","United States",Telephone
+2,1216,21110,2015-02-17,239,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"Connor Department Store","Department Store","United States",Telephone
+2,1216,21110,2015-04-16,183,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"Connor Department Store","Department Store","United States",Telephone
+2,1216,21110,2015-05-21,206,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"Connor Department Store","Department Store","United States",Telephone
+2,1216,21110,2015-06-10,276,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"Connor Department Store","Department Store","United States",Telephone
+2,1216,21110,2015-08-19,395,40.65,28.46,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"Connor Department Store","Department Store","United States",Telephone
+2,1216,21110,2015-09-09,516,40.65,28.46,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"Connor Department Store","Department Store","United States",Telephone
+2,1216,21110,2015-11-15,244,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"Connor Department Store","Department Store","United States",Telephone
+2,1216,21110,2015-12-13,304,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,"Connor Department Store","Department Store","United States",Telephone
+2,1216,15110,2015-01-13,28,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"Connor Department Store","Department Store","United States",Telephone
+2,1216,15110,2015-02-17,30,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"Connor Department Store","Department Store","United States",Telephone
+2,1216,15110,2015-04-16,23,831.88,781.97,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"Connor Department Store","Department Store","United States",Telephone
+2,1216,15110,2015-05-21,23,831.88,781.97,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"Connor Department Store","Department Store","United States",Telephone
+2,1216,15110,2015-06-10,30,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"Connor Department Store","Department Store","United States",Telephone
+2,1216,15110,2015-09-09,25,831.88,781.97,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"Connor Department Store","Department Store","United States",Telephone
+2,1216,15110,2015-10-14,21,831.88,781.97,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"Connor Department Store","Department Store","United States",Telephone
+2,1216,15110,2015-11-15,25,831.88,781.97,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"Connor Department Store","Department Store","United States",Telephone
+2,1216,15110,2015-12-13,31,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,"Connor Department Store","Department Store","United States",Telephone
+2,1216,9110,2015-01-13,1154,13.22,12.56,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Connor Department Store","Department Store","United States",Telephone
+2,1216,9110,2015-02-17,1327,13.22,12.56,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Connor Department Store","Department Store","United States",Telephone
+2,1216,9110,2015-04-20,975,13.22,12.69,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Connor Department Store","Department Store","United States",Telephone
+2,1216,9110,2015-05-21,974,13.22,12.69,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Connor Department Store","Department Store","United States",Telephone
+2,1216,9110,2015-08-19,2444,13.22,7.93,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Connor Department Store","Department Store","United States",Telephone
+2,1216,9110,2015-09-09,1012,13.22,12.56,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Connor Department Store","Department Store","United States",Telephone
+2,1216,9110,2015-10-14,1009,13.22,12.56,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Connor Department Store","Department Store","United States",Telephone
+2,1216,9110,2015-11-08,1054,13.22,12.56,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Connor Department Store","Department Store","United States",Telephone
+2,1216,9110,2015-12-13,1250,13.22,12.56,"Camping Equipment","Cooking Gear","TrailChef Kettle",TrailChef,Ash,5.07,13.22,"Connor Department Store","Department Store","United States",Telephone
+2,1216,3110,2015-01-13,698,23.8,21.42,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Connor Department Store","Department Store","United States",Telephone
+2,1216,3110,2015-02-17,1003,23.8,21.42,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Connor Department Store","Department Store","United States",Telephone
+2,1216,3110,2015-04-16,437,23.8,23.09,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Connor Department Store","Department Store","United States",Telephone
+2,1216,3110,2015-05-21,482,23.8,23.09,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Connor Department Store","Department Store","United States",Telephone
+2,1216,3110,2015-06-10,540,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Connor Department Store","Department Store","United States",Telephone
+2,1216,3110,2015-07-14,552,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Connor Department Store","Department Store","United States",Telephone
+2,1216,3110,2015-08-10,531,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Connor Department Store","Department Store","United States",Telephone
+2,1216,3110,2015-09-09,423,23.8,23.09,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Connor Department Store","Department Store","United States",Telephone
+2,1216,3110,2015-11-15,508,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Connor Department Store","Department Store","United States",Telephone
+2,1216,3110,2015-12-13,587,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,"Connor Department Store","Department Store","United States",Telephone
+2,1218,114110,2015-01-12,95,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,114110,2015-01-13,91,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,114110,2015-03-19,74,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,114110,2015-03-08,49,219.3,175.44,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,114110,2015-03-19,31,219.3,175.44,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,114110,2015-04-15,176,219.3,189.7,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,114110,2015-04-13,169,219.3,189.7,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,114110,2015-06-09,98,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,114110,2015-06-08,93,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,114110,2015-09-09,91,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,114110,2015-09-08,89,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,114110,2015-11-15,82,219.3,203.95,"Golf Equipment","Golf Accessories","Course Pro Golf Bag","Course Pro",Grey,79.7,219.3,Hartman's,"Department Store","United States",Telephone
+2,1218,110110,2015-01-12,244,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,Hartman's,"Department Store","United States",Telephone
+2,1218,110110,2015-01-13,208,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,Hartman's,"Department Store","United States",Telephone
+2,1218,110110,2015-02-17,206,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,Hartman's,"Department Store","United States",Telephone
+2,1218,110110,2015-04-15,183,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,Hartman's,"Department Store","United States",Telephone
+2,1218,110110,2015-04-13,196,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,Hartman's,"Department Store","United States",Telephone
+2,1218,110110,2015-05-11,203,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,Hartman's,"Department Store","United States",Telephone
+2,1218,110110,2015-05-21,171,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,Hartman's,"Department Store","United States",Telephone
+2,1218,110110,2015-09-09,202,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,Hartman's,"Department Store","United States",Telephone
+2,1218,110110,2015-09-08,220,98.75,91.84,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,Hartman's,"Department Store","United States",Telephone
+2,1218,110110,2015-10-18,312,98.75,59.25,"Golf Equipment",Putters,"Blue Steel Putter","Blue Steel",Black,41.2,90.95,Hartman's,"Department Store","United States",Telephone
+2,1218,103110,2015-01-12,89,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,Hartman's,"Department Store","United States",Telephone
+2,1218,103110,2015-01-13,81,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,Hartman's,"Department Store","United States",Telephone
+2,1218,103110,2015-02-17,70,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,Hartman's,"Department Store","United States",Telephone
+2,1218,103110,2015-05-11,67,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,Hartman's,"Department Store","United States",Telephone
+2,1218,103110,2015-05-21,61,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,Hartman's,"Department Store","United States",Telephone
+2,1218,103110,2015-09-09,65,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,Hartman's,"Department Store","United States",Telephone
+2,1218,103110,2015-09-08,66,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,Hartman's,"Department Store","United States",Telephone
+2,1218,103110,2015-11-15,63,532.75,495.46,"Golf Equipment",Irons,"Lady Hailstorm Steel Irons",Hailstorm,Silver,277.76,532.75,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-01-12,441,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-01-13,407,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-02-17,401,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-02-09,402,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-03-19,374,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-04-15,341,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-04-13,338,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-05-11,348,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-05-21,317,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-06-09,393,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-06-08,444,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-07-21,409,35,33.6,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-08-10,410,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-08-11,429,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-09-09,331,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-09-08,333,35,33.25,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,97110,2015-11-15,402,35,31.5,"Outdoor Protection","First Aid","Deluxe Family Relief Kit",Relief,White,16.68,35,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-02-17,1645,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-02-09,1714,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-03-19,1827,6,5.7,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-04-15,1499,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-04-13,1545,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-05-21,1636,6,5.7,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-08-10,2001,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-08-11,2181,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-09-09,1375,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-09-08,1442,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-10-15,1680,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,95110,2015-10-18,1401,6,5.58,"Outdoor Protection",Sunscreen,"Sun Shield",Sun,White,2.76,6,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-01-12,1831,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-01-13,1784,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-02-17,1821,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-02-09,1725,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-04-15,1506,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-04-13,1411,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-06-09,1924,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-06-08,2057,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-07-21,1841,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-08-10,1683,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-08-11,1669,7,6.51,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-10-15,1535,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,89110,2015-11-15,1483,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion",BugShield,Clear,2.33,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-01-12,835,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-01-13,814,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-02-17,901,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-02-09,853,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-03-19,815,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-03-08,749,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-04-15,708,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-04-13,663,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-05-11,716,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-05-21,689,7,6.72,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-06-09,829,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-06-08,886,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-07-21,999,7,6.79,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-08-10,849,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,88110,2015-08-11,841,7,6.65,"Outdoor Protection","Insect Repellents","BugShield Lotion Lite",BugShield,Clear,1.88,7,Hartman's,"Department Store","United States",Telephone
+2,1218,40110,2015-02-17,882,27.81,26.14,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,Hartman's,"Department Store","United States",Telephone
+2,1218,40110,2015-02-09,838,27.81,26.14,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,Hartman's,"Department Store","United States",Telephone
+2,1218,40110,2015-05-11,835,27.81,26.14,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,Hartman's,"Department Store","United States",Telephone
+2,1218,40110,2015-05-21,803,27.81,26.14,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,Hartman's,"Department Store","United States",Telephone
+2,1218,40110,2015-06-09,1248,27.81,22.25,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,Hartman's,"Department Store","United States",Telephone
+2,1218,40110,2015-06-08,1330,27.81,22.25,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,Hartman's,"Department Store","United States",Telephone
+2,1218,40110,2015-08-10,1369,27.81,22.25,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,Hartman's,"Department Store","United States",Telephone
+2,1218,40110,2015-08-11,1363,27.81,22.25,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,Hartman's,"Department Store","United States",Telephone
+2,1218,40110,2015-09-09,791,27.81,26.14,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,Hartman's,"Department Store","United States",Telephone
+2,1218,40110,2015-09-08,756,27.81,26.14,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,Hartman's,"Department Store","United States",Telephone
+2,1218,40110,2015-11-15,767,27.81,26.7,"Camping Equipment",Lanterns,"EverGlow Lamp",EverGlow,Black,14.76,27.81,Hartman's,"Department Store","United States",Telephone
+2,1218,37110,2015-04-15,45,52.15,50.59,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,Hartman's,"Department Store","United States",Telephone
+2,1218,37110,2015-04-13,42,52.15,50.59,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,Hartman's,"Department Store","United States",Telephone
+2,1218,37110,2015-06-09,52,52.15,50.06,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,Hartman's,"Department Store","United States",Telephone
+2,1218,37110,2015-06-08,56,52.15,50.06,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,Hartman's,"Department Store","United States",Telephone
+2,1218,37110,2015-08-10,52,52.15,50.59,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,Hartman's,"Department Store","United States",Telephone
+2,1218,37110,2015-09-09,48,52.15,50.59,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,Hartman's,"Department Store","United States",Telephone
+2,1218,37110,2015-09-08,45,52.15,50.59,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,Hartman's,"Department Store","United States",Telephone
+2,1218,37110,2015-10-18,45,52.15,52.15,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,Hartman's,"Department Store","United States",Telephone
+2,1218,37110,2015-11-15,52,52.15,50.59,"Camping Equipment",Lanterns,"EverGlow Double",EverGlow,Black,28.75,52.15,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-01-12,566,27.37,26,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-01-13,550,27.37,26,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-02-17,556,27.37,26,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-02-09,528,27.37,26,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-03-19,945,27.37,16.42,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-03-19,875,27.37,16.42,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-04-15,832,27.37,16.42,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-04-13,783,27.37,16.42,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-06-09,524,27.37,26,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-06-08,562,27.37,26,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-09-09,510,27.37,26.28,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-09-08,487,27.37,26.28,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-10-18,449,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,32110,2015-11-15,471,27.37,26.55,"Camping Equipment",Lanterns,"Firefly 2",Firefly,Silver,16.38,27.37,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-02-17,248,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-02-09,250,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-04-15,384,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-04-13,383,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-05-11,360,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-05-21,326,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-06-09,486,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-06-08,552,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-07-21,251,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-08-10,371,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-08-11,391,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-09-09,220,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-09-08,223,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-10-15,466,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-10-18,402,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,29110,2015-11-15,368,73.5,68.36,"Camping Equipment",Packs,"Canyon Mule Carryall","Canyon Mule",Blue,41.18,73.5,Hartman's,"Department Store","United States",Telephone
+2,1218,26110,2015-01-12,253,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,Hartman's,"Department Store","United States",Telephone
+2,1218,26110,2015-01-13,231,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,Hartman's,"Department Store","United States",Telephone
+2,1218,26110,2015-04-15,176,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,Hartman's,"Department Store","United States",Telephone
+2,1218,26110,2015-04-13,176,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,Hartman's,"Department Store","United States",Telephone
+2,1218,26110,2015-09-09,205,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,Hartman's,"Department Store","United States",Telephone
+2,1218,26110,2015-09-08,208,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,Hartman's,"Department Store","United States",Telephone
+2,1218,26110,2015-11-15,191,370.86,344.9,"Camping Equipment",Packs,"Canyon Mule Journey Backpack","Canyon Mule",Black,213.33,370.86,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-01-12,257,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-01-13,236,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-02-17,252,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-02-09,254,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-05-11,249,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-05-21,226,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-06-09,250,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-06-08,284,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-07-21,321,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-08-10,250,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-08-11,264,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,25110,2015-11-15,240,285.89,265.88,"Camping Equipment",Packs,"Canyon Mule Weekender Backpack","Canyon Mule",Blue,165.91,285.89,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-01-12,347,17.65,16.94,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-01-13,331,17.65,16.94,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-02-17,341,17.65,16.94,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-02-09,331,17.65,16.94,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-04-15,273,17.65,16.94,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-04-13,262,17.65,16.94,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-05-21,282,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-08-10,320,17.65,16.94,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-08-11,324,17.65,16.94,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-09-09,504,17.65,12.36,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-09-08,495,17.65,12.36,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-10-15,491,17.65,12.36,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-10-18,440,17.65,12.36,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,22110,2015-11-15,284,17.65,17.12,"Camping Equipment","Sleeping Bags","Hibernator Pillow",Hibernator,Purple,8.37,17.65,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-01-12,375,40.65,38.62,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-01-13,357,40.65,38.62,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-02-17,330,40.65,38.62,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-02-09,320,40.65,38.62,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-04-15,271,40.65,38.62,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-04-13,260,40.65,38.62,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-05-11,298,40.65,38.62,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-05-21,280,40.65,38.62,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-06-09,368,40.65,38.62,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-06-08,402,40.65,38.62,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-08-10,571,40.65,28.46,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-08-11,581,40.65,28.46,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-09-09,762,40.65,28.46,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-09-08,745,40.65,28.46,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,21110,2015-11-15,346,40.65,39.02,"Camping Equipment","Sleeping Bags","Hibernator Pad",Hibernator,Grey,18.83,41.31,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-01-12,41,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-01-13,40,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-02-17,41,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-02-09,39,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-04-15,34,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-04-13,31,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-05-21,32,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-06-09,40,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-06-08,42,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-09-09,36,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-09-08,34,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-10-15,31,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-10-18,29,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,15110,2015-11-15,36,831.88,773.65,"Camping Equipment",Tents,"Star Gazer 6",Star,Blue,490,831.88,Hartman's,"Department Store","United States",Telephone
+2,1218,3110,2015-01-12,1171,23.8,21.42,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,Hartman's,"Department Store","United States",Telephone
+2,1218,3110,2015-01-13,1064,23.8,21.42,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,Hartman's,"Department Store","United States",Telephone
+2,1218,3110,2015-02-17,1491,23.8,21.42,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,Hartman's,"Department Store","United States",Telephone
+2,1218,3110,2015-04-15,695,23.8,22.61,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,Hartman's,"Department Store","United States",Telephone
+2,1218,3110,2015-04-13,699,23.8,22.61,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,Hartman's,"Department Store","United States",Telephone
+2,1218,3110,2015-05-21,705,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,Hartman's,"Department Store","United States",Telephone
+2,1218,3110,2015-06-09,775,23.8,22.37,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,Hartman's,"Department Store","United States",Telephone
+2,1218,3110,2015-06-08,889,23.8,22.37,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,Hartman's,"Department Store","United States",Telephone
+2,1218,3110,2015-09-09,666,23.8,22.61,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,Hartman's,"Department Store","United States",Telephone
+2,1218,3110,2015-09-08,681,23.8,22.61,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,Hartman's,"Department Store","United States",Telephone
+2,1218,3110,2015-11-15,775,23.8,22.85,"Camping Equipment","Cooking Gear","TrailChef Kitchen Kit",TrailChef,Unspecified,15.78,23.8,Hartman's,"Department Store","United States",Telephone
+6,1405,72110,2015-02-09,30,148.3,140.89,"Personal Accessories",Eyewear,"Polar Extreme",Extreme,Black,72.5,148.3,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,72110,2015-05-11,32,148.3,139.4,"Personal Accessories",Eyewear,"Polar Extreme",Extreme,Black,72.5,148.3,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,72110,2015-07-13,33,148.3,139.4,"Personal Accessories",Eyewear,"Polar Extreme",Extreme,Black,72.5,148.3,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,72110,2015-10-13,28,148.3,140.89,"Personal Accessories",Eyewear,"Polar Extreme",Extreme,Black,72.5,148.3,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,71110,2015-01-12,41,95.62,91.8,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,71110,2015-02-09,45,95.62,91.8,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,71110,2015-03-08,43,95.62,91.8,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,71110,2015-06-08,40,95.62,92.75,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,71110,2015-07-13,47,95.62,91.8,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,71110,2015-08-11,37,95.62,92.75,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,71110,2015-09-08,43,95.62,91.8,"Personal Accessories",Eyewear,"Polar Wave",Polar,Black,40.95,95.62,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,70240,2015-01-12,103,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,70240,2015-03-08,91,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,70240,2015-04-13,75,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,70240,2015-06-08,97,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,70240,2015-07-13,98,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,70240,2015-09-08,90,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,70240,2015-10-13,88,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,70240,2015-11-11,83,122.7,114.11,"Personal Accessories",Eyewear,"Polar Sports",Polar,Silver,58.88,122.7,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,69110,2015-02-09,91,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,69110,2015-03-08,80,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,69110,2015-04-13,74,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,69110,2015-05-11,78,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,69110,2015-08-11,86,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,69110,2015-09-08,78,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,69110,2015-11-11,80,110,102.3,"Personal Accessories",Eyewear,"Polar Ice",Polar,Black,49.69,109.25,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,68110,2015-03-08,97,61.84,57.51,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,68110,2015-05-11,86,61.84,57.51,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,68110,2015-06-08,74,61.84,57.51,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,68110,2015-07-13,87,61.84,57.51,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Eagle Eyes","Eyewear Store","United States","Sales visit"
+6,1405,68110,2015-08-11,79,61.84,57.51,"Personal Accessories",Eyewear,"Polar Sun",Polar,Silver,26.08,61.84,"Eagle Eyes","Eyewear Store","United States","Sales visit"
