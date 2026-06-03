@@ -97,7 +97,8 @@ Built in **Power BI** with interactive slicers for retailer, product category, a
 ├── raw_data.csv                  # Original uncleaned dataset
 ├── cleaned_data_analyzed.csv     # Cleaned and analysis-ready dataset
 ├── GO_Sales_Report.pdf           # Full business analytics report
-└── README.md
+├── queries.sql                   # SQL queries for all 6 analytical categories
+└── README.md                     # Project documentation
 ```
 
 ---
