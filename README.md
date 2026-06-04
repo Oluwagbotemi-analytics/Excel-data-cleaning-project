@@ -98,7 +98,7 @@ Built in **Power BI** with interactive slicers for retailer, product category, a
 ├── GO_Sales_Report.pdf             # Full business analytics report
 ├── queries.sql                     # SQL queries for all 6 analytical categories
 ├── Sales_Trend.png                 # Power BI Sales Trend dashboard
-├── Retailer_Performance.png        # Power BI Retailer Performance dashboard
+├── Retailers_Performance.png        # Power BI Retailer Performance dashboard
 └── README.md                       # Project documentation
 ```
 
